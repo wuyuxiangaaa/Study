@@ -107,4 +107,4 @@
 	- The computer requires repairing.
 -
   21. sthength((n.)) -> strong((adj.))
--
+	-
