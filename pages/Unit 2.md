@@ -79,4 +79,7 @@
 -
   16. remind((v.))
 	- remind sb of sth
-	- remind sb
+	- The old picture reminds me of my childhood.
+	- remind sb to do sth
+	- Lets remind him to
+	- remind sb that + O从
