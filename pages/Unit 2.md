@@ -119,11 +119,15 @@
 	  id:: 60e2c966-a6f9-4464-bf5b-5d979c626978
 	  background-color:: #533e7d
 	- Let's remind him to come to school tomorrow.
+	  background-color:: #264c9b
 	- remind sb that + O从
+	  background-color:: #533e7d
 	- Let's remind that he will come to school tomorrow.
+	  background-color:: #264c9b
 -
   17. wisdom((n.)) -> wise((adj.)) -> wisely((adv.))
 	- Yellow represents wisdom.
+	  background-color:: #264c9b
 -
   18. as((conj.))
 	- because
