@@ -183,3 +183,4 @@
 		- She would rather not go shopping.
 	- would rather do sth than do sth.
 		- He would rather clean the classroom than do his homework.
+		-
