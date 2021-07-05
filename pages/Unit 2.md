@@ -66,5 +66,5 @@
 	- prefer to do sth rather than do sth
 		- She prefers to stay at home rather than going shopping.
 	- would rather do sth than do sth
-		- S
-		- he would rather stay at home then go shopping.
+		- She would rather stay at home then go shopping.
+		-
