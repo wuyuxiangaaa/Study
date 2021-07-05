@@ -138,3 +138,8 @@
 		- The coat suits were very well.
 	- be suitable for sth
 	- be suitable to do sth
+-
+  30. celebration((n.[C])) -> celebrate((v.))
+	- celebrate our festivals.
+	- Red is used for celebrations.
+	-
