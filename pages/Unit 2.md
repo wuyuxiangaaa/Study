@@ -89,7 +89,6 @@
 -
   18. as((conj.))
 	- because
-	  collapsed:: true
 	- since
 	  id:: 60e2caf0-c4ea-467b-8970-b7cca0a58791
 	- as
