@@ -172,4 +172,5 @@
   37. stressed((adj.)) -> stress((v.))
 	- feel stressed
 -
-  38. suggest((v.)) ≈ advise -> suggestion((n.[C])) ≈ advice((n.[U]))
+  38. suggest((v.)) ≈ advise((v.)) -> suggestion((n.[C])) ≈ advice((n.[U]))
+-
