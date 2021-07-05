@@ -113,4 +113,6 @@
 	- give off light and heat
 -
   23. difficulty((v.)) -> decision((n.))
-	- H
+	- have difficulty/trouble/problems (in) doing sth
+-
+  24. decide((v.))
