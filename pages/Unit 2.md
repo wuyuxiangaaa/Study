@@ -78,9 +78,13 @@
 		- He prefer to stay at home.
 		  background-color:: #264c9b
 	- prefet sb to do sth
+	  background-color:: #533e7d
 	- prefer sth to sth
+	  background-color:: #533e7d
 		- I prefer apples to bananas.
+		  background-color:: #264c9b
 	- prefer doing sth to doing sth
+	  background-color:: #533e7d
 		- He prefers singing to dancing.
 		- She prefers staying at home to going shopping.
 	- prefer to do sth rather than do sth
