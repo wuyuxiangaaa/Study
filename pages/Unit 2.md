@@ -12,4 +12,6 @@
 		- Colours influence our moods.
 	- have an influence/effect on sb/sth
 		- The film has an influence on the teenagers.
-- 4.
+-
+  4. whether/if 是否
+	-
