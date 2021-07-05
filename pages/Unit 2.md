@@ -89,4 +89,6 @@
 	- Yellow represents wisdom.
 -
   18. as((conj.))
-	- because/as/for/sin
+	- because/as/for/since
+	- We should save water, as water is important to us.
+	-
