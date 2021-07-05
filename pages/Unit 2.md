@@ -81,5 +81,7 @@
 	- remind sb of sth
 	- The old picture reminds me of my childhood.
 	- remind sb to do sth
-	- Lets remind him to
+	- Let's remind him to come to school tomorrow.
 	- remind sb that + O从
+	- Let's remind that he will come to school tomorrow.
+- 17.
