@@ -87,3 +87,6 @@
 -
   17. wisdom((n.)) -> wise((adj.)) -> wisely((adv.))
 	- Yellow represents wisdom.
+-
+  18. as((conj.))
+-
