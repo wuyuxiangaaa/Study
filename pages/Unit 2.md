@@ -133,7 +133,7 @@
 	- fill in personal information
 	- personal taste
 -
-  29. suit((v.)) -> suitable((adj.)) = fit
+  29. suit((v.)) -> suitable((adj.)) ≈ fit
 	- suit/fit sb very well
 		- The coat suits were very well.
 	- be suitable for sth
