@@ -111,4 +111,6 @@
 -
   22. heat((n.)) -> hot((adj.))
 	- give off light and heat
-- difficulty
+-
+  23. difficulty((v.)) -> decision((n.))
+	- H
