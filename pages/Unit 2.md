@@ -1,2 +1,3 @@
 -
-  1. rainbow
+  1. rainbow((n.[C]))
+	-
