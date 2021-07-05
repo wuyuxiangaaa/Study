@@ -42,11 +42,11 @@
 -
   6. calm((adj./v.))
 	- calm colours
-	  background-color:: #533e7d
+	  background-color:: #497d46
 	- calm down
 	  background-color:: #533e7d
 	- a calm man
-	  background-color:: #533e7d
+	  background-color:: #497d46
 -
   7. relax((v.)) -> relaxed((adj.))/relaxing((adj.))
 	- feel relaxed
