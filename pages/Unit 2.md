@@ -15,6 +15,7 @@
   background-color:: #497d46
   3. influence((n./v.)) ≈ effect((n.)) + affect((v.))
 	- influence sb/sth
+	  background-color:: #793e3e
 		- Colours influence our moods.
 	- have an influence/effect on sb/sth
 		- The film has an influence on the teenagers.
