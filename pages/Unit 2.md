@@ -29,4 +29,5 @@
 - 7.relax((v.)) -> relaxed((adj.))/relaxing((adj.))
 	- feel relaxed
 	- relaxing music
-	-
+	- relax oneself
+- 8.
