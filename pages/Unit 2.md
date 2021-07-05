@@ -23,3 +23,8 @@
   5. characteristic((n.[C]))
 -
   6. calm((adj./v.))
+	- calm colours
+	- calm down
+	- a calm man
+-
+  7. feel relaxed
