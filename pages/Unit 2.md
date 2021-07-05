@@ -176,4 +176,8 @@
 	- suggest sth
 	- suggest doing sth
 	- He suggested putting off the meeting.
-- 39.
+-
+  39. would rather do sth
+	- would rather not do sth
+	- She would rather wear red clothes.
+	-
