@@ -4,9 +4,8 @@
 	  background-color:: #264c9b
 	- The rainbow comes after a storm.
 	  background-color:: #264c9b
--
+- (2) mood((n.[C]))
   background-color:: #497d46
-  2. mood((n.[C]))
 	- in a good/bad mood
 	- He is in a good mood today.
 -
