@@ -19,4 +19,6 @@
 	- whether可与or not连用，if不可。
 	- whether可引导S从句，if不可。
 	- whether不可用作“如果”，if可。
-	-
+-
+  5. characteristic((n.[C]))
+-
