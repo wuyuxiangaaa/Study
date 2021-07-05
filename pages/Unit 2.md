@@ -44,6 +44,7 @@
 	- calm colours
 	  background-color:: #533e7d
 	- calm down
+	  background-color:: #533e7d
 	- a calm man`tt
 -
   7. relax((v.)) -> relaxed((adj.))/relaxing((adj.))
