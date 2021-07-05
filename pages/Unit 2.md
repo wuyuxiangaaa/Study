@@ -182,6 +182,7 @@
 -
   25. relationship((n.[C]))
 	- different relationships
+	  background-color:: #497d46
 	- The relationship between colours and moods.
 -
   26. certainly((adv.)) -> certain((adj.))
