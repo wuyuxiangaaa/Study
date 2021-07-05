@@ -276,10 +276,13 @@
 	- would rather do sth than do sth.
 	  background-color:: #533e7d
 		- He would rather clean the classroom than do his homework.
+		  background-color:: #264c9b
 -
   40. trust((n./v.))
 	- trust sb
+	  background-color:: #533e7d
 	- believe in sb
+	  background-color:: #533e7d
 	- Black represents turst.
 -
   41. warmth((n.)) -> warm((adj.))
