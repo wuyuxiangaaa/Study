@@ -26,8 +26,10 @@
 	- calm colours
 	- calm down
 	- a calm man
-- 7.relax((v.)) -> relaxed((adj.))/relaxing((adj.))
+-
+  7. relax((v.)) -> relaxed((adj.))/relaxing((adj.))
 	- feel relaxed
 	- relaxing music
 	- relax oneself
-- 8.
+-
+  8. peace((n.)) ->
