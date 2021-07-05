@@ -197,4 +197,7 @@
   42. match((n./v.))
 	- match A with B
 	- Red and white are a good match.
-	-
+-
+  43. balance((n./v.))
+	- get/receive a balance
+	- between A ande B
