@@ -105,4 +105,6 @@
 	- require/need sb to do sth
 	- require/need doing
 	- The computer requires repairing.
-	-
+-
+  21. sthength((n.)) -> strong((adj.))
+-
