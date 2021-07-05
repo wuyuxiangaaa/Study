@@ -173,4 +173,6 @@
 	- feel stressed
 -
   38. suggest((v.)) ≈ advise((v.)) -> suggestion((n.[C])) ≈ advice((n.[U]))
--
+	- suggest sth
+	- suggest doing sth
+	-
