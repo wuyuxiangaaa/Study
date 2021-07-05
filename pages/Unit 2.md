@@ -1,7 +1,6 @@
 -
   background-color:: #497d46
   heading:: true
-  collapsed:: true
   1. rainbow((n.[C]))
 - There is a rainbow in the sky.
   background-color:: #264c9b
