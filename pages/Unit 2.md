@@ -200,4 +200,5 @@
 -
   43. balance((n./v.))
 	- get/receive a balance
-	- between A ande B
+	- balance A and B
+	-
