@@ -18,4 +18,5 @@
 	- whether可用于不定式之前，if不可。
 	- whether可与or not连用，if不可。
 	- whether可引导S从句，if不可。
-	- whether不可用作“如果”
+	- whether不可用作“如果”，if可。
+	-
