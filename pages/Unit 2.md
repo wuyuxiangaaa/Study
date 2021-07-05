@@ -183,4 +183,12 @@
 		- She would rather not go shopping.
 	- would rather do sth than do sth.
 		- He would rather clean the classroom than do his homework.
-		-
+-
+  40. trust((n./v.))
+	- trust sb
+	- believe in sb
+	- Black represents turst.
+-
+  41. warmth n. warm adj.
+	- Orange represents warmth.
+	-
