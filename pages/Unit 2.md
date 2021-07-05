@@ -72,4 +72,7 @@
 	- create a better environment
 -
   14. feeling((n.[C]))
-	-
+	- influence our feelings
+-
+  15. cheer sb up
+-
