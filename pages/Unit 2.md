@@ -32,4 +32,4 @@
 	- relaxing music
 	- relax oneself
 -
-  8. peace((n.)) ->
+  8. peace((n.)) -> peaceful((adj.)) -> peacefully
