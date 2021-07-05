@@ -189,6 +189,7 @@
 	- believe in sb
 	- Black represents turst.
 -
-  41. warmth((n.)) -> fwarm((adj.))
+  41. warmth((n.)) -> warm((adj.))
 	- Orange represents warmth.
-	-
+	- strong((adj.)) -> strength
+	- long((adj.)) -> length
