@@ -163,4 +163,6 @@
 -
   35. work((n./v.))
 	- The medicine works.
-- 36
+-
+  36. practise((v.))
+-
