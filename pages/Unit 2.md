@@ -26,5 +26,4 @@
 	- calm colours
 	- calm down
 	- a calm man
--
-  7. feel relaxed
+- 7.relax((v.)) -> relaxed((adj.))
