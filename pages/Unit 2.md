@@ -121,3 +121,5 @@
 	- make up one's mind to do sth
 -
   25. relationship((n.[C]))
+	- different relationships
+	- The relationship
