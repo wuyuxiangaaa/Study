@@ -122,4 +122,4 @@
 -
   25. relationship((n.[C]))
 	- different relationships
-	- The relationship
+	- The relationship between
