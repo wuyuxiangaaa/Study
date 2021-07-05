@@ -70,3 +70,6 @@
 -
   13.  create((v.)) -> creative((adj.))
 	- create a better environment
+-
+  14. feeling((n.[C]))
+	-
