@@ -168,4 +168,6 @@
 	- practise doing
 	- practise a job
 	- practise the colour therapy
+-
+  37. stressed((adj.)) -> stress((v.))
 	-
