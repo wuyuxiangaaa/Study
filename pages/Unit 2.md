@@ -89,4 +89,4 @@
 	- Yellow represents wisdom.
 -
   18. as((conj.))
--
+	- because/as/for/sin
