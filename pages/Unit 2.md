@@ -143,7 +143,7 @@
 	- celebrate our festivals.
 	- Red is used for celebrations.
 -
-  31. ancient ((adj.))
+  31. ancient((adj.))
 	- in ancient China/Europe
 -
   32. therapy((n.))
