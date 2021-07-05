@@ -64,6 +64,7 @@
 		- He prefers singing to dancing.
 		- She prefers staying at home to going shopping.
 	- prefer to do sth rather than do sth
-		- sShe prefers to stay at home rather than going shopping.
+		- She prefers to stay at home rather than going shopping.
 	- would rather do sth than do sth
-	-
+		- S
+		- he would rather stay at home then go shopping.
