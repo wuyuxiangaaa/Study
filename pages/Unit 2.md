@@ -129,4 +129,5 @@
   27. everyday((adj.)) = daily
 	- our everyday/daily life
 -
-  28. person((n.[C])) -> personal
+  28. person((n.[C])) -> personal((adj.))
+	-
