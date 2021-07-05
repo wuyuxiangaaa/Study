@@ -180,4 +180,4 @@
   39. would rather do sth
 	- She would rather wear red clothes.
 	- would rather not do sth
-		-
+	- she would rather not go shopping.
