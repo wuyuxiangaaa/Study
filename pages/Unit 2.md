@@ -170,4 +170,5 @@
 	- practise the colour therapy
 -
   37. stressed((adj.)) -> stress((v.))
-	-
+	- feel stressed
+- 38.
