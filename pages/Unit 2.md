@@ -75,4 +75,4 @@
 	- influence our feelings
 -
   15. cheer sb up
--
+	-
