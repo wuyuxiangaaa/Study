@@ -67,4 +67,5 @@
 		- She prefers to stay at home rather than going shopping.
 	- would rather do sth than do sth
 		- She would rather stay at home then go shopping.
-		-
+-
+  13.  create((v.))
