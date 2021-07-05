@@ -107,4 +107,6 @@
 	- The computer requires repairing.
 -
   21. sthength((n.)) -> strong((adj.))
-	-
+	- Give me some strength.
+-
+  22. heat((n.))
