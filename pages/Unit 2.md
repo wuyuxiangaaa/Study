@@ -110,4 +110,5 @@
 	- Give me some strength.
 -
   22. heat((n.)) -> hot((adj.))
--
+	- give off light and heat
+- difficulty
