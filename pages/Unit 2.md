@@ -165,4 +165,7 @@
 	- The medicine works.
 -
   36. practise((v.))
--
+	- practise doing
+	- practise a job
+	- practise the colour therapy
+	-
