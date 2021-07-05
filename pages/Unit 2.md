@@ -142,10 +142,13 @@
 	- for
 	  background-color:: #978626
 		- You may buy some cheap things, for the shop has been open for 2 days.
+		  background-color:: #264c9b
 -
   19. envy((n.))
 	- Green is the colour of envy.
+	  background-color:: #264c9b
 	- She is green with envy.
+	  background-color:: #264c9b
 -
   20. require((v.)) = need
 	- require/need to do something
