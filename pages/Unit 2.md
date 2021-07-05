@@ -171,4 +171,5 @@
 -
   37. stressed((adj.)) -> stress((v.))
 	- feel stressed
-- 38.
+-
+  38. suggest((v.))
