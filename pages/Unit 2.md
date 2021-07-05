@@ -256,9 +256,11 @@
 -
   37. stressed((adj.)) -> stress((v.))
 	- feel stressed
+	  background-color:: #497d46
 -
   38. suggest((v.)) ≈ advise((v.)) -> suggestion((n.[C])) ≈ advice((n.[U]))
 	- suggest sth
+	  background-color:: #533e7d
 	- suggest doing sth
 	- He suggested putting off the meeting.
 -
