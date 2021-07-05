@@ -16,6 +16,7 @@
 	- have an influence/effect on sb/sth
 		- The film has an influence on the teenagers.
 - (3) whether/if 是否
+  background-color:: #497d46
 	- whether可用于介词之后，if不可。
 	- whether可用于不定式之前，if不可。
 	- whether可与or not连用，if不可。
