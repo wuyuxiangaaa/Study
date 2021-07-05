@@ -50,7 +50,7 @@
 -
   7. relax((v.)) -> relaxed((adj.))/relaxing((adj.))
 	- feel relaxed
-	  background-color:: #533e7d
+	  background-color:: #497d46
 	- relaxing music
 	  background-color:: #533e7d
 	- relax oneself
@@ -68,7 +68,7 @@
 	- White represents purity.
 	  background-color:: #264c9b
 	- pure water
-	  background-color:: #533e7d
+	  background-color:: #497d46
 -
   11. on one's wedding day
 -
