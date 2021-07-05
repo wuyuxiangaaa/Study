@@ -50,7 +50,6 @@
 	- White represents purity.
 	- pure water
 -
-  background-color:: #497d46
   collapsed:: true
   11. on one's wedding day
 -
