@@ -157,4 +157,5 @@
   34. promise((v.))
 	- promise to do sth
 	- promise sb to do sth
+	- promise sb sth
 	-
