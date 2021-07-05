@@ -248,8 +248,11 @@
 -
   36. practise((v.))
 	- practise doing
+	  background-color:: #533e7d
 	- practise a job
+	  background-color:: #497d46
 	- practise the colour therapy
+	  background-color:: #497d46
 -
   37. stressed((adj.)) -> stress((v.))
 	- feel stressed
