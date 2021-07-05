@@ -50,7 +50,6 @@
 	- White represents purity.
 	- pure water
 -
-  collapsed:: true
   11. on one's wedding day
 -
   12. prefer((v.)) = like ... better -> preferring(doing) -> preferred(did)
