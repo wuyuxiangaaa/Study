@@ -133,4 +133,5 @@
 	- fill in personal information
 	- personal taste
 -
-  29. suit((v.)) -> suitable((adj.))
+  29. suit((v.)) -> suitable((adj.)) = fit
+-
