@@ -14,5 +14,5 @@
 		- The film has an influence on the teenagers.
 -
   4. whether/if 是否
-	- whether可用于介词之后, if不可。
+	- whether可用于介词之后，if不可。
 	-
