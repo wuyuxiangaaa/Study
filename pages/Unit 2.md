@@ -189,6 +189,6 @@
 	- believe in sb
 	- Black represents turst.
 -
-  41. warmth((n.)) warm adj.
+  41. warmth((n.)) warm((adj.))
 	- Orange represents warmth.
 	-
