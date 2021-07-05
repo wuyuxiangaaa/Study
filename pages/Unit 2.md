@@ -262,7 +262,9 @@
 	- suggest sth
 	  background-color:: #533e7d
 	- suggest doing sth
+	  background-color:: #533e7d
 	- He suggested putting off the meeting.
+	  background-color:: #264c9b
 -
   39. would rather do sth
 	- She would rather wear red clothes.
