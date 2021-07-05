@@ -109,4 +109,5 @@
   21. sthength((n.)) -> strong((adj.))
 	- Give me some strength.
 -
-  22. heat((n.))
+  22. heat((n.)) -> hot((adj.))
+-
