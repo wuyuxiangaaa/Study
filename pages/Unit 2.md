@@ -101,6 +101,6 @@
 	- She is green with envy.
 -
   20. require((v.)) = need
-	- require to do something
-	- require sb to do sth
-	-
+	- require/need to do something
+	- require/need sb to do sth
+	- require/need doing
