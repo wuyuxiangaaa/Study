@@ -59,4 +59,5 @@
 		- He prefer to stay at home.
 	- prefet sb to do sth
 	- prefer sth to sth
-	-
+		- I prefer apples to bananas.
+		-
