@@ -33,3 +33,4 @@
 	- relax oneself
 -
   8. peace((n.)) -> peaceful((adj.)) -> peacefully
+	- W
