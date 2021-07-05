@@ -120,4 +120,4 @@
 	- make a decision to do sth
 	- make up one's mind to do sth
 -
-  25. relationship((n.[C])）
+  25. relationship((n.[C]))
