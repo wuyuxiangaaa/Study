@@ -130,4 +130,7 @@
 	- our everyday/daily life
 -
   28. person((n.[C])) -> personal((adj.))
-	-
+	- fill in personal information
+	- personal taste
+-
+  29. suit((v.)) -> suitable((adj.))
