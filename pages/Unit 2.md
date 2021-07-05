@@ -124,4 +124,9 @@
 	- different relationships
 	- The relationship between colours and moods.
 -
-  26. certainly((adv.
+  26. certainly((adv.)) -> certain((adj.))
+-
+  27. everyday((adj.)) = daily
+	- our everyday/daily life
+-
+  28. person((n.[C]))
