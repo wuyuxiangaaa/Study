@@ -60,12 +60,15 @@
 	- We love peace.
 	  background-color:: #264c9b
 	- in peace
+	  background-color:: #533e7d
 -
   9. sadness((n.)) ≈ happiness((n.)) -> sad((adj.)) -> sadly(adv.))
 -
   10. purity((n.)) -> pure((adj.))
 	- White represents purity.
+	  background-color:: #264c9b
 	- pure water
+	  background-color:: #497d46
 -
   11. on one's wedding day
 -
