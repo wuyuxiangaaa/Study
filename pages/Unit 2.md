@@ -115,4 +115,6 @@
   23. difficulty((v.)) -> decision((n.))
 	- have difficulty/trouble/problems (in) doing sth
 -
-  24. decide((v.))
+  24. decide((v.)) -> decision((n.))
+	- decide to do sth
+	- make a decision to do sth
