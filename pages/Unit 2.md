@@ -209,7 +209,8 @@
 	  background-color:: #533e7d
 -
   30. celebration((n.[C])) -> celebrate((v.))
-	- celebrate our festivals.
+	- celebrate our festivals
+	  background-color:: #533e7d
 	- Red is used for celebrations.
 -
   31. ancient((adj.))
