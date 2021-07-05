@@ -91,4 +91,4 @@
   18. as((conj.))
 	- because/as/for/since
 	- We should save water, as water is important to us.
-	- you may buy some cheap things, for the shop has been open for 2 days.
+	- You may buy some cheap things, for the shop has been open for 2 days.
