@@ -190,7 +190,7 @@
 -
   27. everyday((adj.)) = daily
 	- our everyday/daily life
-	  background-color:: #497d46
+	  background-color:: #533e7d
 -
   28. person((n.[C])) -> personal((adj.))
 	- fill in personal information
@@ -216,7 +216,7 @@
 -
   31. ancient((adj.))
 	- in ancient China/Europe
-	  background-color:: #497d46
+	  background-color:: #533e7d
 -
   32. therapy((n.))
 	- colour therapy
