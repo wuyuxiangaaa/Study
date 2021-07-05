@@ -135,3 +135,5 @@
 -
   29. suit((v.)) -> suitable((adj.)) = fit
 	- suit/fit sb very well
+		- The coat suits were very well.
+	-
