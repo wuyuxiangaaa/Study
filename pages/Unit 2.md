@@ -122,4 +122,6 @@
 -
   25. relationship((n.[C]))
 	- different relationships
-	- The relationship between
+	- The relationship between colours and moods.
+-
+  26. certainly((adv.
