@@ -284,9 +284,11 @@
 	- believe in sb
 	  background-color:: #533e7d
 	- Black represents turst.
+	  background-color:: #264c9b
 -
   41. warmth((n.)) -> warm((adj.))
 	- Orange represents warmth.
+	  background-color:: #264c9b
 	- strong((adj.)) -> strength((n.))
 	- long((adj.)) -> length((n.))
 -
