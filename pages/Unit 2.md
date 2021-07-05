@@ -134,4 +134,4 @@
 	- personal taste
 -
   29. suit((v.)) -> suitable((adj.)) = fit
--
+	- suit/fit
