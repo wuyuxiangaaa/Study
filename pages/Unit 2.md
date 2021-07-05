@@ -54,4 +54,7 @@
   collapsed:: true
   11. on one's wedding day
 -
-  12. prefer((v.))
+  12. prefer((v.)) = like ... better -> preferring(doing) -> preferred(did)
+	- prefer to do sth
+		- He prefer to stay at home.
+	- prefet sb to do sth
