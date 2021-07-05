@@ -92,3 +92,8 @@
 	- because/as/for/since
 	- We should save water, as water is important to us.
 	- You may buy some cheap things, for the shop has been open for 2 days.
+-
+  19. envy((n.))
+	- Green is the colour of envy.
+	- She is green with envy.
+-
