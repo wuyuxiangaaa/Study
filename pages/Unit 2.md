@@ -104,3 +104,5 @@
 	- require/need to do something
 	- require/need sb to do sth
 	- require/need doing
+	- The computer requires repairing.
+	-
