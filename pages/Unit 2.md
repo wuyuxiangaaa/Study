@@ -27,4 +27,5 @@
 	- calm down
 	- a calm man
 - 7.relax((v.)) -> relaxed((adj.))/relaxing((adj.))
-	- l
+	- feel relaxed
+	- relaxing music
