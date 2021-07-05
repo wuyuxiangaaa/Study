@@ -79,6 +79,7 @@
 	- remind sb of sth
 	- The old picture reminds me of my childhood.
 	- remind sb to do sth
+	  id:: 60e2c966-a6f9-4464-bf5b-5d979c626978
 	- Let's remind him to come to school tomorrow.
 	- remind sb that + O从
 	- Let's remind that he will come to school tomorrow.
@@ -88,6 +89,7 @@
 -
   18. as((conj.))
 	- because
+	  ((60e2c966-a6f9-4464-bf5b-5d979c626978))
 	- since
 	- as
 		- We should save water, as water is important to us.
