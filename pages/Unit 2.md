@@ -58,3 +58,5 @@
 	- prefer to do sth
 		- He prefer to stay at home.
 	- prefet sb to do sth
+	- prefer sth to sth
+	-
