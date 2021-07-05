@@ -50,11 +50,15 @@
 -
   7. relax((v.)) -> relaxed((adj.))/relaxing((adj.))
 	- feel relaxed
+	  background-color:: #533e7d
 	- relaxing music
+	  background-color:: #533e7d
 	- relax oneself
+	  background-color:: #533e7d
 -
   8. peace((n.)) -> peaceful((adj.)) -> peacefully
 	- We love peace.
+	  background-color:: #264c9b
 	- in peace
 -
   9. sadness((n.)) ≈ happiness((n.)) -> sad((adj.)) -> sadly(adv.))
