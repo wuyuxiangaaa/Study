@@ -99,4 +99,5 @@
   19. envy((n.))
 	- Green is the colour of envy.
 	- She is green with envy.
-- 20.
+-
+  20. require((
