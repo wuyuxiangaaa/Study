@@ -166,12 +166,15 @@
 -
   22. heat((n.)) -> hot((adj.))
 	- give off light and heat
+	  background-color:: #497d46
 -
   23. difficulty((v.)) -> decision((n.))
 	- have difficulty/trouble/problems (in) doing sth
+	  background-color:: #533e7d
 -
   24. decide((v.)) -> decision((n.))
 	- decide to do sth
+	  background-color:: #533e7d
 	- make a decision to do sth
 	- make up one's mind to do sth
 -
