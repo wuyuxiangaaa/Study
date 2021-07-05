@@ -22,3 +22,4 @@
 -
   5. characteristic((n.[C]))
 -
+  6. calm((adj./v.))
