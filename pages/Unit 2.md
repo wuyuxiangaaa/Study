@@ -62,4 +62,4 @@
 		- I prefer apples to bananas.
 	- prefer doing sth to doing sth
 		- He prefers singing to dancing.
-		- she prefers staying at home to going shopping
+		- she prefers staying at home to going shopping.
