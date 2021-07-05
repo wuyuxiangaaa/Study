@@ -86,4 +86,4 @@
 	- Let's remind that he will come to school tomorrow.
 -
   17. wisdom((n.)) -> wise((adj.)) -> wisely((adv.))
--
+	- yellow represents wisdom.
