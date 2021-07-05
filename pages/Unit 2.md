@@ -75,4 +75,5 @@
 	- influence our feelings
 -
   15. cheer sb up
+	- let's cheer Tom up.
 	-
