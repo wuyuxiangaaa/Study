@@ -63,4 +63,5 @@
 	- prefer doing sth to doing sth
 		- He prefers singing to dancing.
 		- she prefers staying at home to going shopping.
-	-
+	- prefer to do sth rather than do sth
+		-
