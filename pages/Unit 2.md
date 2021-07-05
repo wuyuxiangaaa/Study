@@ -158,9 +158,11 @@
 	- require/need doing
 	  background-color:: #533e7d
 	- The computer requires repairing.
+	  background-color:: #264c9b
 -
   21. sthength((n.)) -> strong((adj.))
 	- Give me some strength.
+	  background-color:: #264c9b
 -
   22. heat((n.)) -> hot((adj.))
 	- give off light and heat
