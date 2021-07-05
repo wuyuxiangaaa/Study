@@ -76,4 +76,7 @@
 -
   15. cheer sb up
 	- let's cheer Tom up.
-	-
+-
+  16. remind((v.))
+	- remind sb of sth
+	- remind sb
