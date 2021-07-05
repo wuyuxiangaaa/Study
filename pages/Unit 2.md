@@ -1,2 +1,2 @@
 -
-  1. rainbo
+  1. rainbow
