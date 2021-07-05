@@ -11,6 +11,7 @@
   background-color:: #497d46
   2. mood((n.[C]))
 	- in a good/bad mood
+	  background-color:: #533e7d
 	- He is in a good mood today.
 -
   3. influence((n./v.)) ≈ effect((n.)) + affect((v.))
