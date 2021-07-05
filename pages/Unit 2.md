@@ -1,21 +1,25 @@
-- (1) rainbow((n.[C]))
+-
+  1. rainbow((n.[C]))
   background-color:: #497d46
 	- There is a rainbow in the sky.
 	  background-color:: #264c9b
 	- The rainbow comes after a storm.
 	  background-color:: #264c9b
-- (2) mood((n.[C]))
+-
+  2. mood((n.[C]))
   background-color:: #497d46
 	- in a good/bad mood
 	- He is in a good mood today.
-- (3) influence((n./v.)) ≈ effect((n.)) + affect((v.))
+-
+  3. influence((n./v.)) ≈ effect((n.)) + affect((v.))
   background-color:: #497d46
 	- influence sb/sth
 	  background-color:: #533e7d
 		- Colours influence our moods.
 	- have an influence/effect on sb/sth
 		- The film has an influence on the teenagers.
-- (3) whether/if 是否
+-
+  4. whether/if 是否
   background-color:: #497d46
 	- whether可用于介词之后，if不可。
 	- whether可用于不定式之前，if不可。
@@ -24,6 +28,7 @@
 	- whether不可用作“如果”，if可。
 -
   5. characteristic((n.[C]))
+  background-color:: #497d46
 -
   6. calm((adj./v.))
 	- calm colours
@@ -37,3 +42,16 @@
 -
   8. peace((n.)) -> peaceful((adj.)) -> peacefully
 	- We love peace.
+	- in peace
+-
+  9. sadness((n.)) ≈ happiness((n.)) -> sad((adj.)) -> sadly(adv.))
+-
+  10. purity((n.)) -> pure((adj.))
+	- White represents purity.
+	- pure water
+-
+  background-color:: #497d46
+  collapsed:: true
+  11. on one's wedding day
+-
+  12. prefer((v.))
