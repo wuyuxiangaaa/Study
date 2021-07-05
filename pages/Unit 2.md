@@ -62,7 +62,8 @@
 		- I prefer apples to bananas.
 	- prefer doing sth to doing sth
 		- He prefers singing to dancing.
-		- she prefers staying at home to going shopping.
+		- She prefers staying at home to going shopping.
 	- prefer to do sth rather than do sth
-		- she prefers to stay at home rather than going shopping.
-		-
+		- sShe prefers to stay at home rather than going shopping.
+	- would rather do sth than do sth
+	-
