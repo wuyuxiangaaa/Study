@@ -88,7 +88,6 @@
 -
   18. as((conj.))
 	- because
-	  ((remind))
 	- since
 	- as
 		- We should save water, as water is important to us.
