@@ -147,3 +147,6 @@
 	- in ancient China/Europe
 -
   32. therapy((n.))
+	- colour therapy
+	- a therapy centre
+- 33.
