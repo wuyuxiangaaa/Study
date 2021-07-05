@@ -233,10 +233,14 @@
   34. promise((v.))
 	- promise to do sth
 	  background-color:: #533e7d
-	- promise sb to do sth
+	- promise sb to do sth 
+	  background-color:: #533e7d
 	- promise sb sth
+	  background-color:: #533e7d
 	- promise sth to sb
+	  background-color:: #533e7d
 		- My mother promise me to buy a computer.
+		  background-color:: #264c9b
 -
   35. work((n./v.))
 	- The medicine works.
