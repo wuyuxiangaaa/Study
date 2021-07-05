@@ -68,4 +68,5 @@
 	- would rather do sth than do sth
 		- She would rather stay at home then go shopping.
 -
-  13.  create((v.))
+  13.  create((v.)) -> creative((adj.))
+	- create a better environment
