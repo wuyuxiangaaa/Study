@@ -89,8 +89,10 @@
 	- Yellow represents wisdom.
 -
   18. as((conj.))
-	- because/as/for/since
-	- We should save water, as water is important to us.
+	- because
+	- since
+	- as
+		- We should save water, as water is important to us.
 	- You may buy some cheap things, for the shop has been open for 2 days.
 -
   19. envy((n.))
