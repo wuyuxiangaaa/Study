@@ -158,4 +158,6 @@
 	- promise to do sth
 	- promise sb to do sth
 	- promise sb sth
+	- promise sth to sb
+		- My mother promise me to buy a computer.
 	-
