@@ -86,7 +86,9 @@
 	- prefer doing sth to doing sth
 	  background-color:: #533e7d
 		- He prefers singing to dancing.
+		  background-color:: #264c9b
 		- She prefers staying at home to going shopping.
+		  background-color:: #264c9b
 	- prefer to do sth rather than do sth
 		- She prefers to stay at home rather than going shopping.
 	- would rather do sth than do sth
