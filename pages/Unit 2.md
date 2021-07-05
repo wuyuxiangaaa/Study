@@ -26,4 +26,4 @@
 	- calm colours
 	- calm down
 	- a calm man
-- 7.relax((v.)) -> relaxed((adj.))
+- 7.relax((v.)) -> relaxed((adj.))/relaxing((adj.))
