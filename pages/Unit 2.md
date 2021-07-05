@@ -220,6 +220,7 @@
 -
   32. therapy((n.))
 	- colour therapy
+	  background-color:: #497d46
 	- a therapy centre
 -
   33. discover((v.)) -> discovery((n.))
