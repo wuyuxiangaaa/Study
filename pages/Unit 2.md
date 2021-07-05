@@ -22,6 +22,7 @@
 	- have an influence/effect on sb/sth
 	  background-color:: #533e7d
 		- The film has an influence on the teenagers.
+		  background-color:: #264c9b
 -
   4. whether/if 是否
   background-color:: #497d46
