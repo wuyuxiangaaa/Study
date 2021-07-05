@@ -160,4 +160,7 @@
 	- promise sb sth
 	- promise sth to sb
 		- My mother promise me to buy a computer.
-- 35.
+-
+  35. work((n./v.))
+	- The medicine works.
+-
