@@ -191,5 +191,10 @@
 -
   41. warmth((n.)) -> warm((adj.))
 	- Orange represents warmth.
-	- strong((adj.)) -> strength
-	- long((adj.)) -> length
+	- strong((adj.)) -> strength((n.))
+	- long((adj.)) -> length((n.))
+-
+  42. match((n./v.))
+	- match A with B
+	- Red and white are a good match.
+	-
