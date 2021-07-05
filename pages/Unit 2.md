@@ -149,4 +149,12 @@
   32. therapy((n.))
 	- colour therapy
 	- a therapy centre
-- 33.
+-
+  33. discover((v.)) -> discovery((n.))
+	- discover an island
+	- Her discovery is important to us.
+-
+  34. promise((v.))
+	- promise to do sth
+	- promise sb to do sth
+	-
