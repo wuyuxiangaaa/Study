@@ -167,8 +167,10 @@
 	- fill in personal information
 	  background-color:: #497d46
 	- personal taste
+	  background-color:: #497d46
 - 29. suit((v.)) -> suitable((adj.)) ≈ fit
 	- suit/fit sb very well
+	  background-color:: #533e7d
 		- The coat suits were very well.
 	- be suitable for sth
 	- be suitable to do sth
