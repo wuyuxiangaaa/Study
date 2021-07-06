@@ -142,8 +142,9 @@
 	- have difficulty/trouble/problems (in) doing sth
 	  background-color:: #533e7d
 - 24. decide((v.)) -> decision((n.))
-	- decide to do sth #决定做某事
+	- decide to do sth
 	  background-color:: #533e7d
+	- #决定做某事
 	- make a decision to do sth #决定做某事
 	  background-color:: #533e7d
 	- make up one's mind to do sth #决定做某事
@@ -155,7 +156,8 @@
 - 26. certainly((adv.)) -> certain((adj.))
 - 27. everyday((adj.)) = daily
 	- our everyday/daily life
-- 28. person((n.[C])) -> personal((adj.))
+- collapsed:: true
+    28. person((n.[C])) -> personal((adj.))
 	- fill in personal information
 	- personal taste
 - 29. suit((v.)) -> suitable((adj.)) ≈ fit
