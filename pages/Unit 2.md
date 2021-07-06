@@ -149,4 +149,3 @@
 	- get/receive a balance
 	- balance A and B
 	- Red blances white.
-- [[Unit 2.]]
