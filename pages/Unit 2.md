@@ -148,18 +148,19 @@
 	  #决定做某事
 	- make a decision to do sth
 	  background-color:: #533e7d
+	  collapsed:: true
 	  #决定做某事
-	- make up one's mind to do sth #决定做某事
+	- make up one's mind to do sth
 	  background-color:: #533e7d
-- collapsed:: true
-    25. relationship((n.[C]))
+	  collapsed:: true
+	  #决定做某事
+- 25. relationship((n.[C]))
 	- different relationships
 	- The relationship between colours and moods.
 - 26. certainly((adv.)) -> certain((adj.))
 - 27. everyday((adj.)) = daily
 	- our everyday/daily life
-- collapsed:: true
-    28. person((n.[C])) -> personal((adj.))
+- 28. person((n.[C])) -> personal((adj.))
 	- fill in personal information
 	- personal taste
 - 29. suit((v.)) -> suitable((adj.)) ≈ fit
