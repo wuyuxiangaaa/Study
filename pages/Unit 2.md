@@ -79,8 +79,10 @@
 	- would rather do sth than do sth
 	  background-color:: #533e7d
 		- She would rather stay at home then go shopping.
+		  background-color:: #264c9b
 - 13.  create((v.)) -> creative((adj.))
 	- create a better environment
+	  background-color:: #497d46
 - 14. feeling((n.[C]))
 	- influence our feelings
 - 15. cheer sb up
