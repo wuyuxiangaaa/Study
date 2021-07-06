@@ -184,8 +184,10 @@
 	  background-color:: #264c9b
 - 31. ancient((adj.))
 	- in ancient China/Europe
+	  background-color:: #497d46
 - 32. therapy((n.))
 	- colour therapy
+	  background-color:: #497d46
 	- a therapy centre
 - 33. discover((v.)) -> discovery((n.))
 	- discover an island
