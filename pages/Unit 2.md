@@ -85,6 +85,7 @@
 	  background-color:: #497d46
 - 14. feeling((n.[C]))
 	- influence our feelings
+	  background-color:: #497d46
 - 15. cheer sb up
 	- let's cheer Tom up.
 - 16. remind((v.))
