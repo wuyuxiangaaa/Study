@@ -117,6 +117,7 @@
 	- for
 	  background-color:: #978626
 		- You may buy some cheap things, for the shop has been open for 2 days.
+		  background-color:: #264c9b
 - 19. envy((n.))
 	- Green is the colour of envy.
 	- She is green with envy.
