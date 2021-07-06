@@ -27,11 +27,13 @@
 	- whether可引导S从句，if不可。
 	  background-color:: #787f97
 	- whether不可用作“如果”，if可。
-	  background-color:: #978626
+	  background-color:: #787f97
 - 5. characteristic((n.[C]))
 - 6. calm((adj./v.))
 	- calm colours
+	  background-color:: #497d46
 	- calm down
+	  background-color:: #533e7d
 	- a calm man
 - 7. relax((v.)) -> relaxed((adj.))/relaxing((adj.))
 	- feel relaxed
