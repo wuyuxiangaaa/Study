@@ -97,7 +97,9 @@
 	- remind sb to do sth
 	  background-color:: #533e7d
 	- Let's remind him to come to school tomorrow.
+	  background-color:: #264c9b
 	- remind sb that + O从
+	  background-color:: #533e7d
 	- Let's remind that he will come to school tomorrow.
 - 17. wisdom((n.)) -> wise((adj.)) -> wisely((adv.))
 	- Yellow represents wisdom.
