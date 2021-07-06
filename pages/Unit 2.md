@@ -12,7 +12,6 @@
 	  background-color:: #264c9b
 -
   3. influence((n./v.)) ≈ effect((n.)) + affect((v.))
-  background-color:: #497d46
 	- influence sb/sth
 	  background-color:: #533e7d
 		- Colours influence our moods.
