@@ -7,6 +7,7 @@
 	- in a good/bad mood
 	  background-color:: #533e7d
 	- He is in a good mood today.
+	  background-color:: #264c9b
 - 3. influence((n./v.)) ≈ effect((n.)) + affect((v.))
 	- influence sb/sth
 		- Colours influence our moods.
