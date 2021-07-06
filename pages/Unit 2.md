@@ -162,8 +162,10 @@
 - 26. certainly((adv.)) -> certain((adj.))
 - 27. everyday((adj.)) = daily
 	- our everyday/daily life
+	  background-color:: #497d46
 - 28. person((n.[C])) -> personal((adj.))
 	- fill in personal information
+	  background-color:: #497d46
 	- personal taste
 - 29. suit((v.)) -> suitable((adj.)) ≈ fit
 	- suit/fit sb very well
