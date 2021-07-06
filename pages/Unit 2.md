@@ -53,9 +53,11 @@
 	- White represents purity.
 	  background-color:: #264c9b
 	- pure water
+	  background-color:: #497d46
 - 11. on one's wedding day
 - 12. prefer((v.)) = like ... better -> preferring(doing) -> preferred(did)
 	- prefer to do sth
+	  background-color:: #533e7d
 		- He prefer to stay at home.
 	- prefet sb to do sth
 	- prefer sth to sth
