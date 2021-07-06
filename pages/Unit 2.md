@@ -156,7 +156,9 @@
 	  #决定做某事
 - 25. relationship((n.[C]))
 	- different relationships
+	  background-color:: #497d46
 	- The relationship between colours and moods.
+	  background-color:: #264c9b
 - 26. certainly((adv.)) -> certain((adj.))
 - 27. everyday((adj.)) = daily
 	- our everyday/daily life
