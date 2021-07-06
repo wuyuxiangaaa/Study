@@ -91,8 +91,11 @@
 	  background-color:: #264c9b
 - 16. remind((v.))
 	- remind sb of sth
+	  background-color:: #533e7d
 	- The old picture reminds me of my childhood.
+	  background-color:: #264c9b
 	- remind sb to do sth
+	  background-color:: #533e7d
 	- Let's remind him to come to school tomorrow.
 	- remind sb that + O从
 	- Let's remind that he will come to school tomorrow.
