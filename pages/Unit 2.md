@@ -211,18 +211,27 @@
 		  background-color:: #264c9b
 - 35. work((n./v.))
 	- The medicine works.
+	  background-color:: #264c9b
 - 36. practise((v.))
 	- practise doing
+	  background-color:: #533e7d
 	- practise a job
+	  background-color:: #497d46
 	- practise the colour therapy
+	  background-color:: #497d46
 - 37. stressed((adj.)) -> stress((v.))
 	- feel stressed
+	  background-color:: #497d46
 - 38. suggest((v.)) ≈ advise((v.)) -> suggestion((n.[C])) ≈ advice((n.[U]))
 	- suggest sth
+	  background-color:: #533e7d
 	- suggest doing sth
+	  background-color:: #533e7d
 		- He suggested putting off the meeting.
+		  background-color:: #264c9b
 - 39. would rather do sth
 	- She would rather wear red clothes.
+	  background-color:: #264c9b
 	- would rather not do sth
 		- She would rather not go shopping.
 	- would rather do sth than do sth.
