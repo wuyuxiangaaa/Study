@@ -189,9 +189,12 @@
 	- colour therapy
 	  background-color:: #497d46
 	- a therapy centre
+	  background-color:: #497d46
 - 33. discover((v.)) -> discovery((n.))
 	- discover an island
+	  background-color:: #497d46
 	- Her discovery is important to us.
+	  background-color:: #264c9b
 - 34. promise((v.))
 	- promise to do sth
 	- promise sb to do sth
