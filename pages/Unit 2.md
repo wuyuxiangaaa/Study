@@ -2,8 +2,10 @@
 	- There is a rainbow in the sky.
 	  background-color:: #264c9b
 	- The rainbow comes after a storm.
+	  background-color:: #264c9b
 - 2. mood((n.[C]))
 	- in a good/bad mood
+	  background-color:: #533e7d
 	- He is in a good mood today.
 - 3. influence((n./v.)) ≈ effect((n.)) + affect((v.))
 	- influence sb/sth
