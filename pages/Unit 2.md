@@ -107,8 +107,11 @@
 	  background-color:: #264c9b
 - 18. as((conj.))
 	- because
+	  background-color:: #978626
 	- since
+	  background-color:: #978626
 	- as
+	  background-color:: #978626
 		- We should save water, as water is important to us.
 	- for
 		- You may buy some cheap things, for the shop has been open for 2 days.
