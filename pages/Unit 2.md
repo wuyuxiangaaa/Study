@@ -148,7 +148,8 @@
 	  background-color:: #533e7d
 	- make up one's mind to do sth
 	  background-color:: #533e7d
-- 25. relationship((n.[C]))
+- collapsed:: true
+    25. relationship((n.[C]))
 	- different relationships
 	- The relationship between colours and moods.
 - 26. certainly((adv.)) -> certain((adj.))
