@@ -22,7 +22,6 @@
 		  background-color:: #264c9b
 -
   4. whether/if 是否
-  background-color:: #497d46
 	- whether可用于介词之后，if不可。
 	  background-color:: #787f97
 	- whether可用于不定式之前，if不可。
@@ -35,8 +34,6 @@
 	  background-color:: #787f97
 -
   5. characteristic((n.[C]))
-  background-color:: #497d46
--
   6. calm((adj./v.))
 	- calm colours
 	  background-color:: #497d46
