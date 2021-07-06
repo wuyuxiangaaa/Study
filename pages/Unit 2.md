@@ -233,15 +233,27 @@
 	- She would rather wear red clothes.
 	  background-color:: #264c9b
 	- would rather not do sth
+	  background-color:: #533e7d
 		- She would rather not go shopping.
+		  background-color:: #264c9b
 	- would rather do sth than do sth.
+	  background-color:: #533e7d
 		- He would rather clean the classroom than do his homework.
+		  background-color:: #264c9b
 - 40. trust((n./v.))
 	- trust sb
+	  background-color:: #533e7d
+	  collapsed:: true
+	  #信任某人
 	- believe in sb
+	  background-color:: #533e7d
+	  collapsed:: true
+	  #信任某人
 	- Black represents turst.
+	  background-color:: #264c9b
 - 41. warmth((n.)) -> warm((adj.))
 	- Orange represents warmth.
+	  background-color:: #264c9b
 	- strong((adj.)) -> strength((n.))
 	- long((adj.)) -> length((n.))
 - 42. match((n./v.))
