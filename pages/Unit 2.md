@@ -179,7 +179,9 @@
 	  background-color:: #533e7d
 - 30. celebration((n.[C])) -> celebrate((v.))
 	- celebrate our festivals
+	  background-color:: #497d46
 	- Red is used for celebrations.
+	  background-color:: #264c9b
 - 31. ancient((adj.))
 	- in ancient China/Europe
 - 32. therapy((n.))
