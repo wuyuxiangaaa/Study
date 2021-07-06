@@ -14,7 +14,9 @@
 		- Colours influence our moods.
 		  background-color:: #264c9b
 	- have an influence/effect on sb/sth
+	  background-color:: #533e7d
 		- The film has an influence on the teenagers.
+		  background-color:: #264c9b
 - 4. whether/if 是否
 	- whether可用于介词之后，if不可。
 	- whether可用于不定式之前，if不可。
