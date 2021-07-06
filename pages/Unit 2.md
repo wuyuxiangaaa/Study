@@ -202,9 +202,11 @@
 	  background-color:: #533e7d
 	- promise sb sth
 	  background-color:: #533e7d
+	  collapsed:: true
 	  #承诺给某人某物
 	- promise sth to sb
 	  background-color:: #533e7d
+	  #
 		- My mother promise me to buy a computer.
 - 35. work((n./v.))
 	- The medicine works.
