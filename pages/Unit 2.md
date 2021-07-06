@@ -59,6 +59,7 @@
 	- prefer to do sth
 	  background-color:: #533e7d
 		- He prefers to stay at home.
+		  background-color:: #264c9b
 	- prefet sb to do sth
 	- prefer sth to sth
 		- I prefer apples to bananas.
