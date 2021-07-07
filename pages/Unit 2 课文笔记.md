@@ -11,4 +11,5 @@
 - a rain shower
 - a rainbow in the sky
 - Do you know how many colours there are in a rainbow?
-- The pow
+- The power of colours
+-
