@@ -28,5 +28,8 @@
 - the colour of wisdom
 - prefer this coulour
 - hope for success
-- represent = stand for
+- represent
+  id:: 60e517f3-2c25-4f82-bf89-2124e2a5e168
+- stand for
+-
 - the colour
