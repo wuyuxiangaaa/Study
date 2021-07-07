@@ -10,4 +10,5 @@
 - look out of her window
 - a rain shower
 - a rainbow in the sky
-- Do you know how many colours there are
+- Do you know how many colours there are in a rainbow?
+-
