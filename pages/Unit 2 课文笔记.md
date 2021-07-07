@@ -33,5 +33,7 @@
 - stand for
   id:: 60e5181f-b7b2-42b7-9f99-c31aac8d9ce9
 - ((60e517f3-2c25-4f82-bf89-2124e2a5e168)) = ((60e5181f-b7b2-42b7-9f99-c31aac8d9ce9))
-- the colour
--
+- the colour of envy
+- green with envy
+- require strength
+- either ... or ...
