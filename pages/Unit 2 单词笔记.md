@@ -148,11 +148,9 @@
 	  #决定做某事
 	- make a decision to do sth
 	  background-color:: #533e7d
-	  collapsed:: true
 	  #决定做某事
 	- make up one's mind to do sth
 	  background-color:: #533e7d
-	  collapsed:: true
 	  #决定做某事
 - 25. relationship((n.[C]))
 	- different relationships
@@ -258,8 +256,7 @@
 	  background-color:: #793e3e
 	- long((adj.)) -> length((n.))
 	  background-color:: #793e3e
-- collapsed:: true
-    42. match((n./v.))
+- 42. match((n./v.))
 	- match A with B
 	  background-color:: #533e7d
 	- Red and white are a good match.
