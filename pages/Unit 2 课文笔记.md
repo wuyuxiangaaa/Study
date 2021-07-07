@@ -43,4 +43,7 @@
   id:: 60e518fb-563d-495f-b46d-895c8f18a954
 - ((60e518da-840f-4648-b81b-bad9b305a1be)) = ((60e518fb-563d-495f-b46d-895c8f18a954))
 - strong feelings
+- make it easier to take action
+- having difficulty making a decision
+- cheer sb up
 -
