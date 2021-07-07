@@ -57,5 +57,4 @@
 - choose to wear
 - calm down
 - a little bit stressed
-- Red and white
--
+- red and white
