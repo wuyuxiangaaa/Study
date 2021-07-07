@@ -15,4 +15,9 @@
 - believe that colours can influence our moods
 - wonder
 - change our moods
+- calm colours
+- ever
+- felt relaxed
+- painted blue
+- mind and body
 -
