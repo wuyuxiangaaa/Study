@@ -13,4 +13,6 @@
 - Do you know how many colours there are in a rainbow?
 - The power of colours
 - believe that colours can influence our moods
+- wonder
+- change our moods
 -
