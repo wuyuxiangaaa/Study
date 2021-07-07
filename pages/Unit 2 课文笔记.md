@@ -20,4 +20,5 @@
 - felt relaxed
 - painted blue
 - mind and body
--
+- represent sadness
+- the colour of purity
