@@ -11,9 +11,12 @@
 -
   3. mad((adj.)) > angry
 	- drive sb mad
+	  background-color:: #533e7d
 	- The noise drive me mad.
+	  background-color:: #264c9b
 -
   4. exam((n.[C])) => examination
 	- have an exam/examination
+	  background-color:: #533e7d
 -
   5. perhaps = maybe = probably
