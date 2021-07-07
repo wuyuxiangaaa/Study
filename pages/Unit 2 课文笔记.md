@@ -2,4 +2,12 @@
 - noting wrong
 - sb looks good in sth
 - sth looks good on sb
+- influence us
+- a dull place without colours
+- doing a project on coulours
+- choose to do sth
+- colours of the rainbow
+- look out of her window
+- a rain shower
+- a rainbow in the sky
 -
