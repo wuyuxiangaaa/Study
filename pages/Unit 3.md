@@ -12,4 +12,5 @@
 -
   4. exam((n.[C])) => examination
 	- have an exam/examination
-- 5.perhaps = maybe = probably
+-
+  5. perhaps = maybe = probably
