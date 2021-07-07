@@ -144,13 +144,10 @@
 - 24. decide((v.)) -> decision((n.))
 	- decide to do sth
 	  background-color:: #533e7d
-	  #决定做某事
 	- make a decision to do sth
 	  background-color:: #533e7d
-	  #决定做某事
 	- make up one's mind to do sth
 	  background-color:: #533e7d
-	  #决定做某事
 - 25. relationship((n.[C]))
 	- different relationships
 	  background-color:: #497d46
@@ -199,7 +196,6 @@
 	  background-color:: #533e7d
 	- promise sb sth
 	  background-color:: #533e7d
-	  collapsed:: true
 	  #承诺给某人某物
 	- promise sth to sb
 	  background-color:: #533e7d
