@@ -17,6 +17,6 @@
 -
   4. exam((n.[C])) => examination
 	- have an exam/examination
-	  background-color:: #533e7d
+	  background-color:: #497d46
 -
   5. perhaps = maybe = probably
