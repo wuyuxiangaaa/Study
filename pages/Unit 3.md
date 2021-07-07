@@ -10,4 +10,4 @@
 	- drive sb mad
 	- The noise drive me mad.
 -
-  4. exam((n.[C]))
+  4. exam((n.[C])) =
