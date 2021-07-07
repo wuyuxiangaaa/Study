@@ -144,7 +144,6 @@
 - 24. decide((v.)) -> decision((n.))
 	- decide to do sth
 	  background-color:: #533e7d
-	  collapsed:: true
 	  #决定做某事
 	- make a decision to do sth
 	  background-color:: #533e7d
