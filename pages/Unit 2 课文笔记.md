@@ -13,12 +13,13 @@
 - Do you know how many colours there are in a rainbow?
 - The power of colours
 - believe that colours can influence our moods
-- wonder
 - change our moods
 - calm colours
-- ever
 - felt relaxed
 - painted blue
 - mind and body
 - represent sadness
 - the colour of purity
+- on their wedding days
+- people in cold areas
+- a warm and comfortable feeling
