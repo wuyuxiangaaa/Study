@@ -7,4 +7,7 @@
 	- mark in read
 -
   3. mad((adj.)) > angry
-	- drive
+	- drive sb mad
+	- The noise drive me mad.
+-
+  4. exam((n.[C]))
