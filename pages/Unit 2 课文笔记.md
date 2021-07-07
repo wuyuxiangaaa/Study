@@ -1,0 +1,5 @@
+- a girl's colour
+- noting wrong
+- sb looks good in sth
+- sth looks good on sb
+-
