@@ -25,4 +25,8 @@
 - a warm and comfortable feeling
 - cheer you up
 - remind you of a warm sunny day
+- the colour of wisdom
+- prefer this coulour
+- hope for success
+- represent = stand for
 -
