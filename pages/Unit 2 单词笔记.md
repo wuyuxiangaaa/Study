@@ -196,10 +196,8 @@
 	  background-color:: #533e7d
 	- promise sb sth
 	  background-color:: #533e7d
-	  #承诺给某人某物
 	- promise sth to sb
 	  background-color:: #533e7d
-	  #承诺给某人某物
 		- My mother promise me to buy a computer.
 		  background-color:: #264c9b
 - 35. work((n./v.))
@@ -237,7 +235,6 @@
 	- trust sb
 	  background-color:: #533e7d
 	  collapsed:: true
-	  #信任某人
 	- believe in sb
 	  background-color:: #533e7d
 	  collapsed:: true
