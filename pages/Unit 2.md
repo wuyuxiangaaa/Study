@@ -260,8 +260,11 @@
 	  background-color:: #793e3e
 - 42. match((n./v.))
 	- match A with B
+	  background-color:: #533e7d
 	- Red and white are a good match.
+	  background-color:: #264c9b
 - 43. balance((n./v.))
 	- get/receive a balance
+	  background-color:: #533e7d
 	- balance A and B
 	- Red blances white.
