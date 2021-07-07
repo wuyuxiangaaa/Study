@@ -255,6 +255,7 @@
 	- Orange represents warmth.
 	  background-color:: #264c9b
 	- strong((adj.)) -> strength((n.))
+	  background-color:: #978626
 	- long((adj.)) -> length((n.))
 - 42. match((n./v.))
 	- match A with B
