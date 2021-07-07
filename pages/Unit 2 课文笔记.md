@@ -23,3 +23,6 @@
 - on their wedding days
 - people in cold areas
 - a warm and comfortable feeling
+- cheer you up
+- remind you of a warm sunny day
+-
