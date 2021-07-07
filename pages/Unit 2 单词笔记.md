@@ -234,11 +234,8 @@
 - 40. trust((n./v.))
 	- trust sb
 	  background-color:: #533e7d
-	  collapsed:: true
 	- believe in sb
 	  background-color:: #533e7d
-	  collapsed:: true
-	  #信任某人
 	- Black represents turst.
 	  background-color:: #264c9b
 - 41. warmth((n.)) -> warm((adj.))
