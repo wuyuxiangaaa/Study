@@ -258,7 +258,8 @@
 	  background-color:: #793e3e
 	- long((adj.)) -> length((n.))
 	  background-color:: #793e3e
-- 42. match((n./v.))
+- collapsed:: true
+    42. match((n./v.))
 	- match A with B
 	  background-color:: #533e7d
 	- Red and white are a good match.
