@@ -46,4 +46,7 @@
 - make it easier to take action
 - having difficulty making a decision
 - cheer sb up
--
+- represent peace
+- anything else
+- celebrations
+- an adveritsement for colour therapy
