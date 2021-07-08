@@ -20,3 +20,5 @@
 	  background-color:: #497d46
 -
   5. perhaps = maybe = probably
+-
+  6. deal((v.))
