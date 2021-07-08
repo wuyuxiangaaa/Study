@@ -52,4 +52,5 @@
 		- My parents don't let me stay out alone.
 -
   10. awake((adj.)) -> wake((v.)) -> woke((did)) -> woken((done)) = -asleep
-	-
+	- keep awake
+	- wake sb up
