@@ -53,5 +53,5 @@
 -
   10. awake((adj.)) -> wake((v.)) -> woke((did)) -> woken((done)) = -asleep
 	- keep awake
-	-
+		- Please keep awake in class.
 	- wake sb up
