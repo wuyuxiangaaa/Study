@@ -20,5 +20,7 @@
 	  background-color:: #497d46
 -
   5. perhaps = maybe = probably
-- DONE 6. deal((v.)) dealt((did/done))
+-
+  6. deal((v.)) dealt((did/done))
   done:: 1625711279226
+- 7.
