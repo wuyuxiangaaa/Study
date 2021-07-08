@@ -38,4 +38,4 @@
   7. choice((n.[C])) -> choose((v.)) -> chose((did)) -> chosen((done))
 	- make a choice
 	- have no choice but to do sth
-	-
+		- He has no choice but to
