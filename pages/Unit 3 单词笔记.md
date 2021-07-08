@@ -39,4 +39,10 @@
 	- make a choice
 	- have no choice but to do sth
 		- He has no choice but to ask the police.
+		- I have no choice but to do it.
+-
+  8. but
+	- There's noting but a desk in the room.
+	- do nothing but do sth
+		- He did nothing but complain.
 		-
