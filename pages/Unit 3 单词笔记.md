@@ -23,4 +23,6 @@
 -
   6. deal((v.)) dealt((did/done))
   done:: 1625711279226
-- 7.
+	- deal with
+		- How did you deal with your books?
+		-
