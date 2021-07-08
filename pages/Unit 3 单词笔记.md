@@ -45,4 +45,10 @@
 	- There's noting but a desk in the room.
 	- do nothing but do sth
 		- He did nothing but complain.
-- 9.
+-
+  9. stay up late
+	- He often stay up late to do his homework.
+	- stay out
+		- My parents don't let me stay out alone.
+-
+  10. awake((adj.)) wake((v.))
