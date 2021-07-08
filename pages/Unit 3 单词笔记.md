@@ -21,7 +21,7 @@
 -
   5. perhaps = maybe = probably
 -
-  6. deal((v.)) dealt((did/done))
+  6. deal((v.)) -> dealt((did/done))
   done:: 1625711279226
 	- deal with
 	  id:: 60e662ec-bbc4-4eae-9b6a-306f11eb984d
