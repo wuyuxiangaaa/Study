@@ -27,5 +27,8 @@
 	  id:: 60e662ec-bbc4-4eae-9b6a-306f11eb984d
 		- How did you deal with your books?
 	- do with
-	- ((60e662ec-bbc4-4eae-9b6a-306f11eb984d)) =
+	  id:: 60e6630d-9d0b-4167-a209-ada3ccf4d19d
+	- ((60e662ec-bbc4-4eae-9b6a-306f11eb984d)) = ((60e6630d-9d0b-4167-a209-ada3ccf4d19d))
+	- How ... deal with
+	- What ... do with
 	-
