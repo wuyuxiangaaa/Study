@@ -34,4 +34,5 @@
 - agree with sb
 - be valuable to sb = be of value to sb
 - ask sb for advice/suggestions
-- get one's
+- get one's replies
+-
