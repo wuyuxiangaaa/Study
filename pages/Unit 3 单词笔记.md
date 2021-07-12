@@ -158,4 +158,8 @@
   34. mention((vt.))
 	- mention sb/sth
 		- Did she mention you name?
-	- Don't mention it. = Not at all. = You're welcome
+	- Don't mention it. = Not at all. = You're welcome. = That's all right.
+-
+  35. be of sb's age
+	- He is of your age.
+	- the students of your age
