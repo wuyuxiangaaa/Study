@@ -38,7 +38,9 @@
   19. {{embed [[envy]]}}
 -
   20. {{embed [[require]]}}
-- 21. sthength((n.)) -> strong((adj.))
+-
+  21. {{embed [[sthength]]}}
+	- sthength((n.)) -> strong((adj.))
 	- Give me some strength.
 	  background-color:: #264c9b
 - 22. heat((n.)) -> hot((adj.))
