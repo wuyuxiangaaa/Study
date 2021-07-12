@@ -1,6 +1,7 @@
 -
   1. {{embed [[rainbow]] }}
-- 2. mood((n.[C]))
+-
+  2. {{embed [[mood]]}}
 	- in a good/bad mood
 	  background-color:: #533e7d
 	- He is in a good mood today.
