@@ -147,9 +147,11 @@
 	- a shopping list
 	  background-color:: #497d46
 	- make a list
+	  background-color:: #533e7d
 -
   20. work out ≈ solve
 	- The math problem is too difficult to work out.
+	  background-color:: #264c9b
 	- work it out
 		- The problem is so difficult that I can't work it out.
 -
