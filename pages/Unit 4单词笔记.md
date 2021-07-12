@@ -13,4 +13,5 @@
 	- in different times
 -
   3. whenever((conj.)) = no matter when
-	-
+	- I will help you whenever you need help.
+	- whatever = no matter
