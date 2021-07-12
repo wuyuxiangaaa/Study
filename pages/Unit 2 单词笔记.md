@@ -5,8 +5,6 @@
 -
   3. {{embed [[influence]] }}
 - influence((n./v.)) ≈ effect((n.)) + affect((v.))
-	- [[have an influence/effect on sb/sth]]
-	  background-color:: #533e7d
 - 4. whether/if 是否
 	- whether可用于介词之后，if不可。
 	  background-color:: #787f97
