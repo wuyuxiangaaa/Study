@@ -36,11 +36,6 @@
   18. {{embed [[as]]}}
 -
   19. {{embed [[envy]]}}
-- envy((n.))
-	- Green is the colour of envy.
-	  background-color:: #264c9b
-	- She is green with envy.
-	  background-color:: #264c9b
 - 20. require((v.)) = need
 	- require/need to do something
 	  background-color:: #533e7d
