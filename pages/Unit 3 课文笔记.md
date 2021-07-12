@@ -6,4 +6,8 @@
 - feel lonely
 - I feel sad.
 - work all day
+- perhaps
+- manage your time better
+- in Grade 9
+- be crazy about
 -
