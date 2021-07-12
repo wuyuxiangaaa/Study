@@ -62,7 +62,9 @@
   31. {{embed [[ancient]]}}
 -
   32. {{embed [[therapy]]}}
-- 33. discover((v.)) -> discovery((n.))
+-
+  33. {{embed [[discover]]}}
+- discover((v.)) -> discovery((n.))
 	- discover an island
 	  background-color:: #497d46
 	- Her discovery is important to us.
