@@ -6,8 +6,6 @@
   3. {{embed [[influence]] }}
 -
   4. {{embed [[whether]]}}
-	- whether可用于介词之后，if不可。
-	  background-color:: #787f97
 	- whether可用于不定式之前，if不可。
 	  background-color:: #787f97
 	- whether可与or not连用，if不可。
