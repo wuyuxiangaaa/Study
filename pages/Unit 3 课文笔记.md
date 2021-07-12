@@ -10,4 +10,9 @@
 - manage your time better
 - in Grade 9
 - be crazy about
--
+- love of football
+- the cause of
+- the reason for
+- worry about
+- get into trouble
+- be in trouble
