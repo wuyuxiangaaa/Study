@@ -8,3 +8,5 @@
 	- make up one's mind to do sth
 	- mind and body
 		- influence our mind and body
+-
+  2. time
