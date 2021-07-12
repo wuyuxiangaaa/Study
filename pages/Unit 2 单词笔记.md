@@ -26,7 +26,8 @@
   13. {{embed [[create]]}}
 -
   14. {{embed [[feeling]]}}
-- 15.
+-
+  15. {{embed [[cheer]]}}
 	- cheer sb up
 	- let's cheer Tom up.
 	  background-color:: #264c9b
