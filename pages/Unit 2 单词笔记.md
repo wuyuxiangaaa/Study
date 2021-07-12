@@ -40,7 +40,8 @@
   20. {{embed [[require]]}}
 -
   21. {{embed [[sthength]]}}
-- 22. heat((n.)) -> hot((adj.))
+-
+  22. {{embed [[heat]]}} heat((n.)) -> hot((adj.))
 	- give off light and heat
 	  background-color:: #497d46
 - 23. difficulty((v.)) -> decision((n.))
