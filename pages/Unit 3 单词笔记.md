@@ -167,6 +167,7 @@
 -
   23. silence((n.)) -> silent((adj.))
 	- in silence
+	  background-color:: #533e7d
 		- listen to the teacher carefully in silence
 		- We should study in silence.
 	- keep silence
