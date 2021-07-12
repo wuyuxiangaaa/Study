@@ -71,9 +71,11 @@
 		- Please keep awake in class.
 		  background-color:: #264c9b
 	- wake sb up
+	  background-color:: #533e7d
 -
   11. hardly((adv.))
 	- There is hardly a cloud in the sky, is there?
+	  background-color:: #264c9b
 -
   12. imagine((vt.))
 	- imagine sth
