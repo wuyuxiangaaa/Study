@@ -15,6 +15,7 @@
 	- mind and body
 	  background-color:: #497d46
 		- influence our mind and body
+		  background-color:: #497d46
 -
   2. time((n.[C]))
 	- in different times
