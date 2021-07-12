@@ -137,7 +137,9 @@
 	- be of value to sb
 	  background-color:: #533e7d
 		- Your advice is of value to me.
+		  background-color:: #264c9b
 	- be + adj. + to sb = be of + n. + to sb
+	  background-color:: #793e3e
 -
   18. pure friendship
 -
