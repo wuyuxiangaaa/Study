@@ -154,4 +154,8 @@
   33. pronounce((v.)) -> pronunciation((n.))
 	- Please pronounce the word correctly.
 	- This is the correct pronunciation.
-- 34.
+-
+  34. mention((vt.))
+	- mention sb/sth
+		- Did she mention you name?
+	- Don't mention it. = Not at all. = You're welcome
