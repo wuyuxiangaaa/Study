@@ -12,8 +12,6 @@
   6. {{embed [[calm]]}}
 -
   7. {{embed [[relax]]}}
-	- feel relaxed
-	  background-color:: #497d46
 	- relaxing music
 	  background-color:: #497d46
 	- relax oneself
