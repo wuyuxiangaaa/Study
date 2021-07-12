@@ -129,4 +129,5 @@
 	- use these methods to solve the problem
 	- I don't know how to solve it.
 -
-  26. dictionary((n.[C))
+  26. dictionary((n.[C)) -> dictionaries((pl.))
+	- l
