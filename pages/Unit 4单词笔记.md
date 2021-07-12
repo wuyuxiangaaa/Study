@@ -10,4 +10,6 @@
 		- influence our mind and body
 -
   2. time((n.[C]))
-- in different times
+	- in different times
+-
+  3. whenever((conj.))
