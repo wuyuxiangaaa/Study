@@ -55,3 +55,10 @@
 	- keep awake
 		- Please keep awake in class.
 	- wake sb up
+-
+  11. hardly((adv.))
+	- There is hardly a cloud in the sky, is there?
+-
+  12. imagine((vt.))
+	- imagine sth
+		- I imagine a better life
