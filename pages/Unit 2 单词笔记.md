@@ -20,7 +20,6 @@
   10. {{embed [[purity]]}}
 -
   11. {{embed [[wedding]]}}
-- on one's wedding day
 - 12. prefer((v.)) = like ... better -> preferring(doing) -> preferred(did)
 	- prefer to do sth
 	  background-color:: #533e7d
