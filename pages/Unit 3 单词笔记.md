@@ -69,6 +69,7 @@
 	- keep awake
 	  background-color:: #533e7d
 		- Please keep awake in class.
+		  background-color:: #264c9b
 	- wake sb up
 -
   11. hardly((adv.))
