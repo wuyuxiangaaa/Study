@@ -53,10 +53,13 @@
 	- There's noting but a desk in the room.
 	  background-color:: #264c9b
 	- do nothing but do sth
+	  background-color:: #533e7d
 		- He did nothing but complain.
+		  background-color:: #264c9b
 -
   9. stay up late
 	- He often stay up late to do his homework.
+	  background-color:: #264c9b
 	- stay out
 		- My parents don't let me stay out alone.
 -
