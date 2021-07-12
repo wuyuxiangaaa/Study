@@ -12,4 +12,5 @@
   2. time((n.[C]))
 	- in different times
 -
-  3. whenever((conj.))
+  3. whenever((conj.)) = no matter when
+	-
