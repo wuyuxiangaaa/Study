@@ -6,8 +6,6 @@
   3. {{embed [[influence]] }}
 -
   4. {{embed [[whether]]}}
-	- whether不可用作“如果”，if可。
-	  background-color:: #787f97
 - 5. characteristic((n.[C]))
 - 6. calm((adj./v.))
 	- calm colours
