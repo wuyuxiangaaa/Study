@@ -99,7 +99,9 @@
 -
   14. worth((adj.))
 	- The house is worth every penny.
+	  background-color:: #264c9b
 	- be well worth doing sth
+	  background-color:: #533e7d
 		- The film is well worth seeing again.
 -
   15. the cause of = the reason for
