@@ -74,7 +74,8 @@
   37. {{embed [[stressed]]}}
 -
   38. {{embed [[suggest]]}}
-- 39.
+-
+  39. {{embed [[would rather]]}}
 - would rather do sth
 	- She would rather wear red clothes.
 	  background-color:: #264c9b
