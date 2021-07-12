@@ -1,4 +1,5 @@
 - remind((v.))
+  background-color:: #49767b
 	- remind sb of sth
 	  background-color:: #533e7d
 		- The old picture reminds me of my childhood.
