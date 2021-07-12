@@ -79,6 +79,7 @@
 -
   12. imagine((vt.))
 	- imagine sth
+	  background-color:: #533e7d
 		- I imagine a better life without homework.
 	- imagine doing sth
 	- imagine to do sth
