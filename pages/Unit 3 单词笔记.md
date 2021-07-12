@@ -135,6 +135,7 @@
 		- The suggestion is valuable to me.
 		  background-color:: #264c9b
 	- be of value to sb
+	  background-color:: #533e7d
 		- Your advice is of value to me.
 	- be + adj. + to sb = be of + n. + to sb
 -
