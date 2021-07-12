@@ -1,2 +1,2 @@
 - characteristic((n.[C]))
-  background-color:: #497d46
+  background-color:: #49767b
