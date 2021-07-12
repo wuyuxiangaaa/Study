@@ -15,9 +15,6 @@
 - 8. peace((n.)) -> peaceful((adj.)) -> peacefully
 	- We love peace.
 	  background-color:: #264c9b
-	- in peace
-	  background-color:: #533e7d
-	-
 - 9. sadness((n.)) ≈ happiness((n.)) -> sad((adj.)) -> sadly(adv.))
 - 10. purity((n.)) -> pure((adj.))
 	- White represents purity.
