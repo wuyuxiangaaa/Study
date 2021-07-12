@@ -96,4 +96,11 @@
 	- be of value to sb
 		- Your advice is of value to me.
 	- be + adj. + to sb = be of + n. + to sb
-	-
+-
+  18. pure friendship
+-
+  19. list((n./v.))
+	- a shopping list
+	- make a list
+-
+  20. work out
