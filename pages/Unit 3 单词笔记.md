@@ -79,4 +79,4 @@
   15. the cause of = the reason for
 	- cause((v.)) = lead to
 -
-  16. strict((adj.)) -> stricter(()) -> strictest(())
+  16. strict((adj.)) -> stricter((↑)) -> strictest(())
