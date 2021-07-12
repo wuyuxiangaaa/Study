@@ -38,15 +38,6 @@
   19. {{embed [[envy]]}}
 -
   20. {{embed [[require]]}}
-- require((v.)) = need
-	- [[require/need to do something]]
-	  background-color:: #533e7d
-	- [[require/need sb to do sth]]
-	  background-color:: #533e7d
-	- [[require/need doing]]
-	  background-color:: #533e7d
-	- The computer requires repairing.
-	  background-color:: #264c9b
 - 21. sthength((n.)) -> strong((adj.))
 	- Give me some strength.
 	  background-color:: #264c9b
