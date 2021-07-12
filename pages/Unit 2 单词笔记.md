@@ -76,7 +76,8 @@
   38. {{embed [[suggest]]}}
 -
   39. {{embed [[would rather]]}}
-- 40.
+-
+  40. {{embed [[trust]]}}
 - trust((n./v.))
 	- trust sb
 	  background-color:: #533e7d
