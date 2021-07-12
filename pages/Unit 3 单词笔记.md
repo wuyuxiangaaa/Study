@@ -130,4 +130,8 @@
 	- I don't know how to solve it.
 -
   26. dictionary((n.[C)) -> dictionaries((pl.))
-- look up the words in the dictionary
+	- look up the words in the dictionary
+-
+  27. a youth worker
+-
+  28. reply
