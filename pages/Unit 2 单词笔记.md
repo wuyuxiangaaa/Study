@@ -64,8 +64,10 @@
   32. {{embed [[therapy]]}}
 -
   33. {{embed [[discover]]}}
-- 34.
-	- promise((v.))
+-
+  34. {{embed [[promise]]}}
+- promise((v.))
+  background-color:: #49767b
 	- promise to do sth
 	  background-color:: #533e7d
 	- promise sb to do sth 
