@@ -6,7 +6,8 @@
   3. {{embed [[influence]] }}
 -
   4. {{embed [[whether]]}}
-- 5. characteristic((n.[C]))
+-
+  5. /[characteristic((n.[C]))
 - 6. calm((adj./v.))
 	- calm colours
 	  background-color:: #497d46
