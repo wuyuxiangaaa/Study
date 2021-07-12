@@ -211,7 +211,9 @@
 -
   31. go over
 	- Let's go over our lessons.
+	  background-color:: #264c9b
 	- go down/up/worng/missing/through
+	  background-color:: #533e7d
 -
   32. aloud((adv.))
 	- read aloud
