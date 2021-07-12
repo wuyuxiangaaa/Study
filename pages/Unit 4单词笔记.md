@@ -18,3 +18,6 @@
 	- wherever = no matter where
 	- however = no matter how
 	- whoever = no matter who
+-
+  4. through((prep.))
+	- We get some information through the
