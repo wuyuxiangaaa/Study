@@ -60,11 +60,8 @@
   30. {{embed [[celebrate]]}}
 -
   31. {{embed [[ancient]]}}
-- 32. therapy((n.))
-	- colour therapy
-	  background-color:: #497d46
-	- a therapy centre
-	  background-color:: #497d46
+-
+  32. {{embed [[therapy]]}}
 - 33. discover((v.)) -> discovery((n.))
 	- discover an island
 	  background-color:: #497d46
