@@ -66,10 +66,8 @@
   33. {{embed [[discover]]}}
 -
   34. {{embed [[promise]]}}
-- 35.
-- work((n./v.))
-	- The medicine works.
-	  background-color:: #264c9b
+-
+  35. {{embed [[work]]}}
 - 36. practise((v.))
 	- practise doing
 	  background-color:: #533e7d
