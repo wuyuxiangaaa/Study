@@ -155,11 +155,13 @@
 	- work it out
 	  background-color:: #533e7d
 		- The problem is so difficult that I can't work it out.
+		  background-color:: #264c9b
 -
   21. according to sth
 -
   22. whom -> who -> whose
 	- I don't know whom/who I will talk with/to.
+	  background-color:: #264c9b
 	- I don't konw whom/who to talk to.
 -
   23. silence((n.)) -> silent((adj.))
