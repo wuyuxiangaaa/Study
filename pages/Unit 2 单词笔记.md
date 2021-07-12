@@ -142,7 +142,7 @@
 	- have difficulty/trouble/problems (in) doing sth
 	  background-color:: #533e7d
 - 24. decide((v.)) -> decision((n.))
-	- decide to do sth
+	- decide to do sth]]
 	  background-color:: #533e7d
 	- make a decision to do sth
 	  background-color:: #533e7d
