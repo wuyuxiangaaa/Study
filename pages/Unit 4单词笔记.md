@@ -20,4 +20,9 @@
 	- whoever = no matter who
 -
   4. through((prep.))
-	- We get some information through the
+	- We get some information through the Internet.
+-
+  5. as soon as
+	- I'll call you as soon as I arrive in Shanghai tomorrow.
+-
+  6. deal((n./v.))de
