@@ -149,4 +149,9 @@
 	- go down/up/worng/missing/through
 -
   32. aloud((adv.))
-	- read al
+	- read aloud
+-
+  33. pronounce((v.)) -> pronunciation((n.))
+	- Please pronounce the word correctly.
+	- This is the correct pronunciation.
+- 34.
