@@ -221,7 +221,9 @@
 -
   33. pronounce((v.)) -> pronunciation((n.))
 	- Please pronounce the word correctly.
+	  background-color:: #264c9b
 	- This is the correct pronunciation.
+	  background-color:: #264c9b
 -
   34. mention((vt.))
 	- mention sb/sth
