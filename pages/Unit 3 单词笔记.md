@@ -125,6 +125,7 @@
 -
   16. schoolwork((n.[C]))
 	- do schoolwork
+	  background-color:: #497d46
 -
   17. valuable((adj.)) -> value((n.))
 	- a valuable suggestion
