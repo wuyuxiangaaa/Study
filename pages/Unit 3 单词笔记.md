@@ -115,6 +115,7 @@
 	- be strict in sth
 		- My father is strict in his work.
 	- be strict with sb
+	  background-color:: #533e7d
 		- My parents are strict with me.
 	- be strict with sb in sth
 -
