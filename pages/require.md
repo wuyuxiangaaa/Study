@@ -1,6 +1,6 @@
 - require((v.)) = need
   background-color:: #49767b
-	- [[require/need to do something]]
+	- [[require/need to do sth]]
 	  background-color:: #533e7d
 	- [[require/need sb to do sth]]
 	  background-color:: #533e7d
