@@ -103,9 +103,11 @@
 	- be well worth doing sth
 	  background-color:: #533e7d
 		- The film is well worth seeing again.
+		  background-color:: #264c9b
 -
   15. the cause of = the reason for
 	- cause((v.)) = lead to
+	  background-color:: #533e7d
 -
   16. strict((adj.)) -> stricter((adj.more)) -> strictest((adj.most))
 	- be strict in sth
