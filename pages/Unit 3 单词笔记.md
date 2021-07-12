@@ -80,4 +80,10 @@
 	- cause((v.)) = lead to
 -
   16. strict((adj.)) -> stricter((adj.more)) -> strictest((adj.most))
-	- be str
+	- be strict in sth
+		- My father is strict in his work.
+	- be strict with sb
+		- My parents are strict with me.
+	- be strict with sb in sth
+-
+  16. schoolwork((n.[C]))
