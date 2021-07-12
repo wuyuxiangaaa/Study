@@ -1,5 +1,6 @@
 - trust((n./v.))
   background-color:: #49767b
+	- 、
 	- [[trust sb]]
 	  background-color:: #533e7d
 	- [[believe in sb]]
