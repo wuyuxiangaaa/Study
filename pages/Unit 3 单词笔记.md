@@ -25,6 +25,7 @@
   done:: 1625711279226
 	- deal with
 	  id:: 60e662ec-bbc4-4eae-9b6a-306f11eb984d
+	  background-color:: #533e7d
 		- How did you deal with your books?
 	- do with
 	  id:: 60e6630d-9d0b-4167-a209-ada3ccf4d19d
