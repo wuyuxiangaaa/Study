@@ -91,6 +91,7 @@
 	- I doubt + if/whether + 从句
 	  background-color:: #533e7d
 		- I doubt if/whether he is a student.
+		  background-color:: #264c9b
 	- I don't doubt + that + 从句
 	  background-color:: #533e7d
 		- I don't doubt that he will succeed.
