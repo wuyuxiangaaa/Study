@@ -141,4 +141,12 @@
   29. chemistry((n.))
 	- We will learn chemistry this term.
 	- We will have Chemistry next term.
-	-
+-
+  30. laugh at sb
+-
+  31. go over
+	- Let's go over our lessons.
+	- go down/up/worng/missing/through
+-
+  32. aloud((adv.))
+	- read al
