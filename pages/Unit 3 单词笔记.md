@@ -169,7 +169,9 @@
 	- in silence
 	  background-color:: #533e7d
 		- listen to the teacher carefully in silence
+		  background-color:: #533e7d
 		- We should study in silence.
+		  background-color:: #264c9b
 	- keep silence
 -
   24. worry((n.[C]))
