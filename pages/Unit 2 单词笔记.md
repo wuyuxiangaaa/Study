@@ -24,9 +24,8 @@
   12. {{embed [[prefer]]}}
 -
   13. {{embed [[create]]}}
-- 14. feeling((n.[C]))
-	- influence our feelings
-	  background-color:: #497d46
+-
+  14. {{embed [[feeling]]}}
 - 15. cheer sb up
 	- let's cheer Tom up.
 	  background-color:: #264c9b
