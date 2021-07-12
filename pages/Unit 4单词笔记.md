@@ -16,4 +16,5 @@
 	- I will help you whenever you need help.
 	- whatever = no matter what
 	- wherever = no matter where
-	-
+	- however = no matter how
+	- whoever = no matter who
