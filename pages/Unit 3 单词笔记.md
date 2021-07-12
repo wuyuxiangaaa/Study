@@ -36,7 +36,6 @@
 	- What ... do with
 	  id:: 60e66364-b75e-489a-8644-700504119c3a
 	  background-color:: #533e7d
-	- ((60e66359-8e8e-49d8-a032-9424c82a60ca)) = ((60e66364-b75e-489a-8644-700504119c3a))
 -
   7. choice((n.[C])) -> choose((v.)) -> chose((did)) -> chosen((done))
 	- make a choice
