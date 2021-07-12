@@ -66,7 +66,8 @@
   33. {{embed [[discover]]}}
 -
   34. {{embed [[promise]]}}
-- 35. work((n./v.))
+- 35.
+- work((n./v.))
 	- The medicine works.
 	  background-color:: #264c9b
 - 36. practise((v.))

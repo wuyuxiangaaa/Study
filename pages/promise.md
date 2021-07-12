@@ -1,8 +1,8 @@
 - promise((v.))
   background-color:: #49767b
-	- [promise to do sth]]
+	- [[promise to do sth]]
 	  background-color:: #533e7d
-	- promise sb to do sth 
+	- [[promise sb to do sth]]
 	  background-color:: #533e7d
 	- [[promise sb sth]]
 	  background-color:: #533e7d
