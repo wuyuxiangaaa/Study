@@ -142,11 +142,11 @@
 	- have difficulty/trouble/problems (in) doing sth
 	  background-color:: #533e7d
 - 24. decide((v.)) -> decision((n.))
-	- decide to do sth]]
+	- [[decide to do sth]]
 	  background-color:: #533e7d
-	- make a decision to do sth
+	- [[make a decision to do sth]]
 	  background-color:: #533e7d
-	- make up one's mind to do sth
+	- [[make up one's mind to do sth]]
 	  background-color:: #533e7d
 - 25. relationship((n.[C]))
 	- different relationships
