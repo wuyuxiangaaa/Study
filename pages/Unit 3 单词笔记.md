@@ -81,8 +81,11 @@
 	- imagine sth
 	  background-color:: #533e7d
 		- I imagine a better life without homework.
+		  background-color:: #264c9b
 	- imagine doing sth
+	  background-color:: #533e7d
 	- imagine to do sth
+	  background-color:: #497d46
 -
   13. doubt((v.))
 	- I doubt + if/whether + 从句
