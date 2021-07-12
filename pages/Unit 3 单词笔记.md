@@ -177,7 +177,9 @@
 -
   24. worry((n.[C]))
 	- I need someone to share my worries with.
+	  background-color:: #264c9b
 	- sth worry sb
+	  background-color:: #533e7d
 	- be worried about sb = worry about sb
 -
   25. method((n.[C])) ≈ way
