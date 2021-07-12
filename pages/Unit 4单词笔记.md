@@ -1,3 +1,5 @@
 -
-  1. on one's mind
-	- What's on your mind?
+  1. mind((n./v.))
+	- on one's mind
+		- What's on your mind?
+	-
