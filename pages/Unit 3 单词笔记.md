@@ -61,4 +61,10 @@
 -
   12. imagine((vt.))
 	- imagine sth
-		- I imagine a better life
+		- I imagine a better life without homework.
+	- imagine doing sth
+	- imagine to do sth
+-
+  13. doubt((v.))
+	- I doubt + if/whether + 从句
+	-
