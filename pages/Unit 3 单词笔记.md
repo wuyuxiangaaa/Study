@@ -29,6 +29,7 @@
 		- How did you deal with your books?
 	- do with
 	  id:: 60e6630d-9d0b-4167-a209-ada3ccf4d19d
+	  background-color:: #533e7d
 	- ((60e662ec-bbc4-4eae-9b6a-306f11eb984d)) ≈ ((60e6630d-9d0b-4167-a209-ada3ccf4d19d))
 	- How ... deal with
 	  id:: 60e66359-8e8e-49d8-a032-9424c82a60ca
