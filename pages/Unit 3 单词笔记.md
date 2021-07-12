@@ -74,4 +74,9 @@
   14. worth((adj.))
 	- The house is worth every penny.
 	- be well worth doing sth
-	-
+		- The film is well worth seeing again.
+-
+  15. the cause of = the reason for
+	- cause((v.)) = lead to
+-
+  16. strict((adj.)) str
