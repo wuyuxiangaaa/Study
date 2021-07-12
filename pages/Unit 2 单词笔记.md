@@ -52,7 +52,10 @@
   26. {{embed [[certainly]]}}
 -
   27. {{embed [[everyday]]}}
-- 28. person((n.[C])) -> personal((adj.))
+-
+  28. {{embed [[person]]}}
+- person((n.[C])) -> personal((adj.))
+  background-color:: #49767b
 	- fill in personal information
 	  background-color:: #497d46
 	- personal taste
