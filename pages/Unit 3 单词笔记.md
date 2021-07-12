@@ -203,7 +203,9 @@
 -
   29. chemistry((n.))
 	- We will learn chemistry this term.
+	  background-color:: #264c9b
 	- We will have Chemistry next term.
+	  background-color:: #264c9b
 -
   30. laugh at sb
 -
