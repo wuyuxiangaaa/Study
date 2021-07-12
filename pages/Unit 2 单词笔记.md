@@ -22,31 +22,6 @@
   11. {{embed [[wedding]]}}
 -
   12. {{embed [[prefer]]}}
-	- prefer((v.)) = like ... better -> preferring(doing) -> preferred(did)
-		- [[prefer to do sth]]
-		  background-color:: #533e7d
-			- He prefers to stay at home.
-			  background-color:: #264c9b
-		- [[prefet sb to do sth]]
-		  background-color:: #533e7d
-		- [[prefer sth to sth]]
-		  background-color:: #533e7d
-			- I prefer apples to bananas.
-			  background-color:: #264c9b
-		- [[prefer doing sth to doing sth]]
-		  background-color:: #533e7d
-			- He prefers singing to dancing.
-			  background-color:: #264c9b
-			- She prefers staying at home to going shopping.
-			  background-color:: #264c9b
-		- [[prefer to do sth rather than do sth]]
-		  background-color:: #533e7d
-			- She prefers to stay at home rather than going shopping.
-			  background-color:: #264c9b
-		- [[would rather do sth than do sth]]
-		  background-color:: #533e7d
-			- She would rather stay at home then go shopping.
-			  background-color:: #264c9b
 - 13.  create((v.)) -> creative((adj.))
 	- create a better environment
 	  background-color:: #497d46
