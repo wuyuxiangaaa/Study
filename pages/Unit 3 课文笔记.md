@@ -1,4 +1,9 @@
 - why not
 - do/take exercise
 - enough sleep
-- in c
+- in class
+- be on
+- feel lonely
+- I feel sad.
+- work all day
+-
