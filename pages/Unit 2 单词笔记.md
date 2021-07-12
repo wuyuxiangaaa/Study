@@ -40,9 +40,6 @@
   20. {{embed [[require]]}}
 -
   21. {{embed [[sthength]]}}
-	- sthength((n.)) -> strong((adj.))
-	- Give me some strength.
-	  background-color:: #264c9b
 - 22. heat((n.)) -> hot((adj.))
 	- give off light and heat
 	  background-color:: #497d46
