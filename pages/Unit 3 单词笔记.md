@@ -68,4 +68,4 @@
   13. doubt((v.))
 	- I doubt + if/whether + 从句
 		- I doubt if/whether he is a student.
-		-
+	- I don't doubt + that +从句
