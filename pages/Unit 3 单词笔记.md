@@ -51,6 +51,7 @@
 -
   8. but
 	- There's noting but a desk in the room.
+	  background-color:: #264c9b
 	- do nothing but do sth
 		- He did nothing but complain.
 -
