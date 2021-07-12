@@ -1,0 +1,1 @@
+- certainly((adv.)) -> certain((adj.))

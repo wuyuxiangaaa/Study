@@ -48,7 +48,8 @@
   24. {{embed [[decide]]}}
 -
   25. {{embed [[relationship]]}}
-- 26. certainly((adv.)) -> certain((adj.))
+-
+  26. {{embed [[certainly]]}}
 - 27. everyday((adj.)) = daily
 	- our everyday/daily life
 	  background-color:: #497d46
