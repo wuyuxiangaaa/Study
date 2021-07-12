@@ -1,3 +1,3 @@
 - influence((n./v.)) ≈ effect((n.)) + affect((v.))
-  background-color:: #497d46
+  background-color:: #49767b
 - {{embed [[影响某人某物]]}}
