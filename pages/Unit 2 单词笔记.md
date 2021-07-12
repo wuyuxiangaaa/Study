@@ -77,6 +77,7 @@
 -
   39. {{embed [[would rather]]}}
 - would rather do sth
+  background-color:: #533e7d
 	- She would rather wear red clothes.
 	  background-color:: #264c9b
 - would rather not do sth
