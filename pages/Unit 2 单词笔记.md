@@ -56,7 +56,8 @@
   28. {{embed [[person]]}}
 -
   29. {{embed [[suit]]}}
-- 30. celebration((n.[C])) -> celebrate((v.))
+- 30.
+- celebration((n.[C])) -> celebrate((v.))
 	- celebrate our festivals
 	  background-color:: #497d46
 	- Red is used for celebrations.
