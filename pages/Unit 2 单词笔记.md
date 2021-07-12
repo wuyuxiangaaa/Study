@@ -78,13 +78,8 @@
   39. {{embed [[would rather]]}}
 -
   40. {{embed [[trust]]}}
-- 41. warmth((n.)) -> warm((adj.))
-	- Orange represents warmth.
-	  background-color:: #264c9b
-	- strong((adj.)) -> strength((n.))
-	  background-color:: #793e3e
-	- long((adj.)) -> length((n.))
-	  background-color:: #793e3e
+-
+  41. {{embed [[warmth]]}}
 - 42. match((n./v.))
 	- match A with B
 	  background-color:: #533e7d
