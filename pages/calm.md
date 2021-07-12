@@ -1,7 +1,8 @@
 - calm((adj./v.))
+  background-color:: #497d46
 	- calm colours
 	  background-color:: #497d46
-	- calm down
+	- [[calm down]]
 	  background-color:: #533e7d
 	- a calm man
 	  background-color:: #497d46
