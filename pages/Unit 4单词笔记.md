@@ -35,9 +35,11 @@
 -
   4. through((prep.))
 	- We get some information through the Internet.
+	  background-color:: #264c9b
 -
   5. as soon as
 	- I'll call you as soon as I arrive in Shanghai tomorrow.
+	  background-color:: #264c9b
 -
   6. deal((n./v.)) -> dealt((did)) -> dealt((done))
 	- a great deal = very much
