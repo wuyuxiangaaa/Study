@@ -49,5 +49,6 @@
 		- He ran a great deal faster than I.
 		  background-color:: #264c9b
 	- a great deal of + n.[U]
-		- get a deal of information background-color: #00ff00
+	  background-color:: #533e7d
+		- get a deal of information
 		- waste a great deal of time
