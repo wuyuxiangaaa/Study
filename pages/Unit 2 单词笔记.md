@@ -12,7 +12,9 @@
   6. {{embed [[calm]]}}
 -
   7. {{embed [[relax]]}}
-- 8. peace((n.)) -> peaceful((adj.)) -> peacefully
+-
+  8. {{embed [[peace]]}}
+	- peace((n.)) -> peaceful((adj.)) -> peacefully
 	- We love peace.
 	  background-color:: #264c9b
 	- in peace
