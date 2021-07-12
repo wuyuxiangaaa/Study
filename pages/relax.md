@@ -1,0 +1,1 @@
+- relax((v.)) -> relaxed((adj.))/relaxing((adj.))
