@@ -24,9 +24,6 @@
   12. {{embed [[prefer]]}}
 -
   13. {{embed [[create]]}}
-	- create((v.)) -> creative((adj.))
-		- create a better environment
-		  background-color:: #497d46
 - 14. feeling((n.[C]))
 	- influence our feelings
 	  background-color:: #497d46
