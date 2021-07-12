@@ -191,12 +191,15 @@
 -
   26. dictionary((n.[C)) -> dictionaries((pl.))
 	- look up the words in the dictionary
+	  background-color:: #497d46
 -
   27. a youth worker
 -
   28. reply((n./v.))
 	- get his replies
+	  background-color:: #497d46
 	- reply to sb = answer sb
+	  background-color:: #533e7d
 -
   29. chemistry((n.))
 	- We will learn chemistry this term.
