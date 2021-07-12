@@ -42,7 +42,8 @@
   21. {{embed [[sthength]]}}
 -
   22. {{embed [[heat]]}}
-- 23. difficulty((v.)) -> decision((n.))
+- 23.
+	- difficulty((v.)) -> decision((n.))
 	- have difficulty/trouble/problems (in) doing sth
 	  background-color:: #533e7d
 - 24. decide((v.)) -> decision((n.))
