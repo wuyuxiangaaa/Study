@@ -185,7 +185,9 @@
 -
   25. method((n.[C])) ≈ way
 	- use these methods to solve the problem
+	  background-color:: #264c9b
 	- I don't know how to solve it.
+	  background-color:: #264c9b
 -
   26. dictionary((n.[C)) -> dictionaries((pl.))
 	- look up the words in the dictionary
