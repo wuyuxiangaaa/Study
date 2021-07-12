@@ -20,7 +20,8 @@
   10. {{embed [[purity]]}}
 -
   11. {{embed [[wedding]]}}
-- 12.
+-
+  12. {{embed [[prefer]]}}
 	- prefer((v.)) = like ... better -> preferring(doing) -> preferred(did)
 	- [[prefer to do sth]]
 	  background-color:: #533e7d
