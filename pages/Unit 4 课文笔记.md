@@ -1,2 +1,6 @@
 - What's up? = What's wrong
--
+- finish doing sth
+- do a surver on sth
+- allow sb to do sth
+- as soon sa
+- a great deal of
