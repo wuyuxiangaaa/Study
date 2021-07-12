@@ -26,7 +26,8 @@
   13. {{embed [[create]]}}
 -
   14. {{embed [[feeling]]}}
-- 15. cheer sb up
+- 15.
+	- cheer sb up
 	- let's cheer Tom up.
 	  background-color:: #264c9b
 - 16. remind((v.))
