@@ -61,10 +61,13 @@
 	- He often stay up late to do his homework.
 	  background-color:: #264c9b
 	- stay out
+	  background-color:: #533e7d
 		- My parents don't let me stay out alone.
+		  background-color:: #264c9b
 -
   10. awake((adj.)) -> wake((v.)) -> woke((did)) -> woken((done)) = -asleep
 	- keep awake
+	  background-color:: #533e7d
 		- Please keep awake in class.
 	- wake sb up
 -
