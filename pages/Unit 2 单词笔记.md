@@ -46,11 +46,8 @@
   23. {{embed [[difficulty]]}}
 -
   24. {{embed [[decide]]}}
-- 25. relationship((n.[C]))
-	- different relationships
-	  background-color:: #497d46
-	- The relationship between colours and moods.
-	  background-color:: #264c9b
+-
+  25. {{embed [[relationship]]}}
 - 26. certainly((adv.)) -> certain((adj.))
 - 27. everyday((adj.)) = daily
 	- our everyday/daily life
