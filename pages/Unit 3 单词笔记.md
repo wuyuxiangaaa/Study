@@ -85,12 +85,14 @@
 	- imagine doing sth
 	  background-color:: #533e7d
 	- imagine to do sth
-	  background-color:: #497d46
+	  background-color:: #533e7d
 -
   13. doubt((v.))
 	- I doubt + if/whether + 从句
+	  background-color:: #533e7d
 		- I doubt if/whether he is a student.
 	- I don't doubt + that + 从句
+	  background-color:: #533e7d
 		- I don't doubt that he will succeed.
 -
   14. worth((adj.))
