@@ -11,8 +11,6 @@
 -
   6. {{embed [[calm]]}}
 -
-	- a calm man
-	  background-color:: #497d46
 - 7. relax((v.)) -> relaxed((adj.))/relaxing((adj.))
 	- feel relaxed
 	  background-color:: #497d46
