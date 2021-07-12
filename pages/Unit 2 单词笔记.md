@@ -46,13 +46,6 @@
   23. {{embed [[difficulty]]}}
 -
   24. {{embed [[decide]]}}
-	- decide((v.)) -> decision((n.))
-	- [[decide to do sth]]
-	  background-color:: #533e7d
-	- [[make a decision to do sth]]
-	  background-color:: #533e7d
-	- [[make up one's mind to do sth]]
-	  background-color:: #533e7d
 - 25. relationship((n.[C]))
 	- different relationships
 	  background-color:: #497d46
