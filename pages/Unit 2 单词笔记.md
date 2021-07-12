@@ -34,7 +34,9 @@
   17. {{embed [[wisdom]]}}
 -
   18. {{embed [[as]]}}
-- 19. envy((n.))
+-
+  19. {{embed [[envy]]}}
+- envy((n.))
 	- Green is the colour of envy.
 	  background-color:: #264c9b
 	- She is green with envy.
