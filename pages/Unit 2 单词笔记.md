@@ -82,7 +82,9 @@
   41. {{embed [[warmth]]}}
 -
   42. {{embed [[match]]}}
-- 43. balance((n./v.))
+- 43.
+- balance((n./v.))
+  background-color:: #49767b
 	- get/receive a balance
 	  background-color:: #533e7d
 	- balance A and B
