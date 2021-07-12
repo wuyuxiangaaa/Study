@@ -70,3 +70,7 @@
 		- I doubt if/whether he is a student.
 	- I don't doubt + that + 从句
 		- I don't doubt that he will succeed.
+-
+  14. worth((adj.))
+	- The house is worth every penny.
+	-
