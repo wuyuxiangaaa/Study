@@ -95,5 +95,5 @@
 		- The suggestion is valuable to me.
 	- be of value to sb
 		- Your advice is of value to me.
-	- be + ((adj.)) + to sb = be of + ((n.)) + to sb
+	- be + adj. + to sb = be of + n. + to sb
 	-
