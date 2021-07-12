@@ -19,9 +19,11 @@
 -
   2. time((n.[C]))
 	- in different times
+	  background-color:: #497d46
 -
   3. whenever((conj.)) = no matter when
 	- I will help you whenever you need help.
+	  background-color:: #264c9b
 	- whatever = no matter what
 	- wherever = no matter where
 	- however = no matter how
