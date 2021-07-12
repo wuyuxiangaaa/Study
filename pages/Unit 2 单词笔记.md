@@ -28,7 +28,9 @@
   14. {{embed [[feeling]]}}
 -
   15. {{embed [[cheer]]}}
-- 16. remind((v.))
+-
+  16. {{embed [[remind]]}}
+- remind((v.))
 	- remind sb of sth
 	  background-color:: #533e7d
 		- The old picture reminds me of my childhood.
