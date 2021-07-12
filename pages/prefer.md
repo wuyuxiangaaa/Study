@@ -1,5 +1,5 @@
 - prefer((v.)) = like ... better -> preferring(doing) -> preferred(did)
-  background-color:: #497d46
+  background-color:: #49767b
 	- [[prefer to do sth]]
 	  background-color:: #533e7d
 		- He prefers to stay at home.
