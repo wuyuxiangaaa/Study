@@ -79,4 +79,5 @@
   15. the cause of = the reason for
 	- cause((v.)) = lead to
 -
-  16. strict((adj.)) -> stricter((adj.more)) -> strictest((adj.))
+  16. strict((adj.)) -> stricter((adj.more)) -> strictest((adj.most))
+	- be str
