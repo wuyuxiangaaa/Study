@@ -41,9 +41,7 @@
 -
   21. {{embed [[sthength]]}}
 -
-  22. {{embed [[heat]]}} heat((n.)) -> hot((adj.))
-	- give off light and heat
-	  background-color:: #497d46
+  22. {{embed [[heat]]}}
 - 23. difficulty((v.)) -> decision((n.))
 	- have difficulty/trouble/problems (in) doing sth
 	  background-color:: #533e7d
