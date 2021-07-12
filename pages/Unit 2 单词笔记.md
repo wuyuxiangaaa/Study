@@ -34,19 +34,6 @@
   17. {{embed [[wisdom]]}}
 -
   18. {{embed [[as]]}}
-- as((conj.))
-	- because
-	  background-color:: #978626
-	- since
-	  background-color:: #978626
-	- as
-	  background-color:: #978626
-		- We should save water, as water is important to us.
-		  background-color:: #264c9b
-	- for
-	  background-color:: #978626
-		- You may buy some cheap things, for the shop has been open for 2 days.
-		  background-color:: #264c9b
 - 19. envy((n.))
 	- Green is the colour of envy.
 	  background-color:: #264c9b
