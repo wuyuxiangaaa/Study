@@ -32,9 +32,6 @@
   16. {{embed [[remind]]}}
 -
   17. {{embed [[wisdom]]}}
-- wisdom((n.)) -> wise((adj.)) -> wisely((adv.))
-	- Yellow represents wisdom.
-	  background-color:: #264c9b
 - 18. as((conj.))
 	- because
 	  background-color:: #978626
