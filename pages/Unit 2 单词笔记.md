@@ -50,7 +50,9 @@
   25. {{embed [[relationship]]}}
 -
   26. {{embed [[certainly]]}}
-- 27. everyday((adj.)) = daily
+-
+  27. {{embed [[everyday]]}}
+	- everyday((adj.)) = daily
 	- our everyday/daily life
 	  background-color:: #497d46
 - 28. person((n.[C])) -> personal((adj.))
