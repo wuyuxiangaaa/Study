@@ -1,1 +1,1 @@
-- whether/if 是否
+- whether = if 是否
