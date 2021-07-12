@@ -121,6 +121,7 @@
 		- My parents are strict with me.
 		  background-color:: #264c9b
 	- be strict with sb in sth
+	  background-color:: #533e7d
 -
   16. schoolwork((n.[C]))
 	- do schoolwork
