@@ -1,6 +1,7 @@
 -
   1. mind((n./v.))
 	- on one's mind
+	  background-color:: #533e7d
 		- What's on your mind?
 	- mind doing sth
 	- mind one's/sb doing sth
