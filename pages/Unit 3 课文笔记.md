@@ -20,5 +20,6 @@
 - be in trouble
 - allow sb to do sth
 - allow doing sth
-- be strict with
+- be strict with sb in sth
+- develop((v.)) -> developing((doing)) -> developed((did))
 -
