@@ -7,7 +7,9 @@
 	- mind doing sth
 	  background-color:: #533e7d
 	- mind one's/sb doing sth
+	  background-color:: #533e7d
 	- change one's mind
+	  background-color:: #533e7d
 	- make up one's mind to do sth
 	- mind and body
 		- influence our mind and body
