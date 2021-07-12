@@ -35,4 +35,6 @@
 - be valuable to sb = be of value to sb
 - ask sb for advice/suggestions
 - get one's replies
--
+- laugh at sb
+- call sb sth
+- make
