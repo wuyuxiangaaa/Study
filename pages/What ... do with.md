@@ -1,2 +1,1 @@
-- [[How ... deal
-- with]]
+- [[How ... deal with]]
