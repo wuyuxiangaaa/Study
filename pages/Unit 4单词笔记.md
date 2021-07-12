@@ -14,4 +14,6 @@
 -
   3. whenever((conj.)) = no matter when
 	- I will help you whenever you need help.
-	- whatever = no matter
+	- whatever = no matter what
+	- wherever = no matter where
+	-
