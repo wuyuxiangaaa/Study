@@ -5,6 +5,7 @@
 		- What's on your mind?
 		  background-color:: #264c9b
 	- mind doing sth
+	  background-color:: #533e7d
 	- mind one's/sb doing sth
 	- change one's mind
 	- make up one's mind to do sth
