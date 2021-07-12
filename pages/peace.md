@@ -2,5 +2,5 @@
   background-color:: #497d46
 - We love peace.
   background-color:: #264c9b
-- in peace
+- [[in peace]]
   background-color:: #533e7d
