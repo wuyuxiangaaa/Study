@@ -70,7 +70,8 @@
   35. {{embed [[work]]}}
 -
   36. {{embed [[practise]]}}
-- 37. stressed((adj.)) -> stress((v.))
+- 37.
+- stressed((adj.)) -> stress((v.))
 	- feel stressed
 	  background-color:: #497d46
 - 38. suggest((v.)) ≈ advise((v.)) -> suggestion((n.[C])) ≈ advice((n.[U]))
