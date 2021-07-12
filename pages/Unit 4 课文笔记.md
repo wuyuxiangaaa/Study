@@ -3,4 +3,4 @@
 - do a surver on sth
 - allow sb to do sth
 - as soon sa
-- a great deal of
+- a great deal
