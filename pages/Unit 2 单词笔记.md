@@ -64,12 +64,8 @@
   32. {{embed [[therapy]]}}
 -
   33. {{embed [[discover]]}}
-- discover((v.)) -> discovery((n.))
-	- discover an island
-	  background-color:: #497d46
-	- Her discovery is important to us.
-	  background-color:: #264c9b
-- 34. promise((v.))
+- 34.
+	- promise((v.))
 	- promise to do sth
 	  background-color:: #533e7d
 	- promise sb to do sth 
