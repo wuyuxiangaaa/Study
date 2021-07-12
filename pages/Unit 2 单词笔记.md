@@ -80,11 +80,8 @@
   40. {{embed [[trust]]}}
 -
   41. {{embed [[warmth]]}}
-- 42. match((n./v.))
-	- match A with B
-	  background-color:: #533e7d
-	- Red and white are a good match.
-	  background-color:: #264c9b
+-
+  42. {{embed [[match]]}}
 - 43. balance((n./v.))
 	- get/receive a balance
 	  background-color:: #533e7d
