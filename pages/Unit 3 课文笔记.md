@@ -42,4 +42,5 @@
 - as + adj. + as possible
 - read aloud
 - Don‘t mention it.
+- in detail
 -
