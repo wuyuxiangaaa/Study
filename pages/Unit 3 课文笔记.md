@@ -26,4 +26,12 @@
 - look forward to doing sth
 - reply to sb
 - stay up late to do sth
--
+- work out
+- make a list of sth
+- be worth doing sth
+- It seems that + 从句
+- forget about sth
+- agree with sb
+- be valuable to sb = be of value to sb
+- ask sb for advice/suggestions
+- get one's
