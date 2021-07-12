@@ -87,3 +87,9 @@
 	- be strict with sb in sth
 -
   16. schoolwork((n.[C]))
+	- do schoolwork
+-
+  17. valuable((adj.)) -> value((n.))
+	- a valuable suggestion
+	- be valuable to sb
+	- be of value to sb
