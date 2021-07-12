@@ -10,7 +10,6 @@
   5. {{embed [[characteristic]]}}
 -
   6. {{embed [[calm]]}}
--
 - 7. relax((v.)) -> relaxed((adj.))/relaxing((adj.))
 	- feel relaxed
 	  background-color:: #497d46
