@@ -1,3 +1,4 @@
 - why not
 - do/take exercise
--
+- enough sleep
+- in c
