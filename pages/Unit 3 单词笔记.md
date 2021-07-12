@@ -135,4 +135,10 @@
   27. a youth worker
 -
   28. reply((n./v.))
-	- get his re
+	- get his replies
+	- reply to sb = answer sb
+-
+  29. chemistry((n.))
+	- We will learn chemistry this term.
+	- We will have Chemistry next term.
+	-
