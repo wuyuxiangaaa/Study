@@ -10,15 +10,13 @@
   5. {{embed [[characteristic]]}}
 -
   6. {{embed [[calm]]}}
-- calm((adj./v.))
+-
 	- calm colours
 	  background-color:: #497d46
 	- calm down
 	  background-color:: #533e7d
 	- a calm man
 	  background-color:: #497d46
-- whether不可用作“如果”，if可。
-  background-color:: #787f97
 - 7. relax((v.)) -> relaxed((adj.))/relaxing((adj.))
 	- feel relaxed
 	  background-color:: #497d46
