@@ -16,7 +16,9 @@
   8. {{embed [[peace]]}}
 -
   9. {{embed [[sadness]]}}
-- 10. purity((n.)) -> pure((adj.))
+-
+  10. {{embed [[purity]]}}
+	- purity((n.)) -> pure((adj.))
 	- White represents purity.
 	  background-color:: #264c9b
 	- pure water
