@@ -217,6 +217,7 @@
 -
   32. aloud((adv.))
 	- read aloud
+	  background-color:: #497d46
 -
   33. pronounce((v.)) -> pronunciation((n.))
 	- Please pronounce the word correctly.
