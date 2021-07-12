@@ -113,4 +113,13 @@
   22. whom -> who -> whose
 	- I don't know whom/who I will talk with/to.
 	- I don't konw whom/who to talk to.
+-
+  23. silence((n.)) -> silent((adj.))
+	- in silence
+		- listen to the teacher carefully in silence
+		- We should study in silence.
+	- keep silence
+-
+  24. worry((n.[C]))
+	- I need someone to share my worries with.
 	-
