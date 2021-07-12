@@ -58,9 +58,8 @@
   29. {{embed [[suit]]}}
 -
   30. {{embed [[celebrate]]}}
-- 31. ancient((adj.))
-	- in ancient China/Europe
-	  background-color:: #497d46
+-
+  31. {{embed [[ancient]]}}
 - 32. therapy((n.))
 	- colour therapy
 	  background-color:: #497d46
