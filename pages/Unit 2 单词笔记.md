@@ -14,8 +14,6 @@
   7. {{embed [[relax]]}}
 -
   8. {{embed [[peace]]}}
-	- We love peace.
-	  background-color:: #264c9b
 	- in peace
 	  background-color:: #533e7d
 - 9. sadness((n.)) ≈ happiness((n.)) -> sad((adj.)) -> sadly(adv.))
