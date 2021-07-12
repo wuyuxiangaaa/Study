@@ -225,7 +225,9 @@
 -
   34. mention((vt.))
 	- mention sb/sth
+	  background-color:: #533e7d
 		- Did she mention you name?
+		  background-color:: #264c9b
 	- Don't mention it. = Not at all. = You're welcome. = That's all right.
 	  background-color:: #533e7d
 -
