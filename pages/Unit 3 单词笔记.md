@@ -129,8 +129,11 @@
 -
   17. valuable((adj.)) -> value((n.))
 	- a valuable suggestion
+	  background-color:: #497d46
 	- be valuable to sb
+	  background-color:: #533e7d
 		- The suggestion is valuable to me.
+		  background-color:: #264c9b
 	- be of value to sb
 		- Your advice is of value to me.
 	- be + adj. + to sb = be of + n. + to sb
