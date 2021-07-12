@@ -39,4 +39,6 @@
 - call sb sth
 - make little progress
 - It takes time.
-- as
+- as + adj. + as possible
+- read aloud
+-
