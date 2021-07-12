@@ -10,7 +10,7 @@
 	  background-color:: #533e7d
 		- I prefer apples to bananas.
 		  background-color:: #264c9b
-	-
+	- {{embed [[宁愿做某事也不愿做某事]]}}
 	- [[prefer doing sth to doing sth]]
 	  background-color:: #533e7d
 		- He prefers singing to dancing.
