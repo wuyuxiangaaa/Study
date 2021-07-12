@@ -36,7 +36,9 @@
   18. {{embed [[as]]}}
 -
   19. {{embed [[envy]]}}
-- 20. require((v.)) = need
+-
+  20. {{embed [[require]]}}
+- require((v.)) = need
 	- [[require/need to do something]]
 	  background-color:: #533e7d
 	- [[require/need sb to do sth]]
