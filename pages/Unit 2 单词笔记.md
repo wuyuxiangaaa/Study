@@ -72,7 +72,8 @@
   36. {{embed [[practise]]}}
 -
   37. {{embed [[stressed]]}}
-- 38.
+-
+  38. {{embed [[suggest]]}}
 - suggest((v.)) ≈ advise((v.)) -> suggestion((n.[C])) ≈ advice((n.[U]))
   background-color:: #49767b
 	- suggest sth
