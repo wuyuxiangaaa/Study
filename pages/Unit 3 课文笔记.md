@@ -13,6 +13,9 @@
 - love of football
 - the cause of
 - the reason for
-- worry about
+- worry about sb/sth
+- worry about doing sth
+- worry about not doing sth
 - get into trouble
 - be in trouble
+-
