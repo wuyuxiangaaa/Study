@@ -14,7 +14,8 @@
   7. {{embed [[relax]]}}
 -
   8. {{embed [[peace]]}}
-- 9. sadness((n.)) ≈ happiness((n.)) -> sad((adj.)) -> sadly(adv.))
+-
+  9. {{embed [[sadness]]}}
 - 10. purity((n.)) -> pure((adj.))
 	- White represents purity.
 	  background-color:: #264c9b
