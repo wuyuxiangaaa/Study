@@ -113,10 +113,13 @@
 -
   16. strict((adj.)) -> stricter((adj.more)) -> strictest((adj.most))
 	- be strict in sth
+	  background-color:: #533e7d
 		- My father is strict in his work.
+		  background-color:: #264c9b
 	- be strict with sb
 	  background-color:: #533e7d
 		- My parents are strict with me.
+		  background-color:: #264c9b
 	- be strict with sb in sth
 -
   16. schoolwork((n.[C]))
