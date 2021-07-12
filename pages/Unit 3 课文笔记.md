@@ -18,4 +18,7 @@
 - worry about not doing sth
 - get into trouble
 - be in trouble
+- allow sb to do sth
+- allow doing sth
+- be strict with
 -
