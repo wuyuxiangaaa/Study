@@ -54,15 +54,8 @@
   27. {{embed [[everyday]]}}
 -
   28. {{embed [[person]]}}
-- 29. suit((v.)) -> suitable((adj.)) ≈ fit
-	- suit/fit sb very well
-	  background-color:: #533e7d
-		- The coat suits were very well.
-		  background-color:: #264c9b
-	- be suitable for sth
-	  background-color:: #533e7d
-	- be suitable to do sth
-	  background-color:: #533e7d
+-
+  29. {{embed [[suit]]}}
 - 30. celebration((n.[C])) -> celebrate((v.))
 	- celebrate our festivals
 	  background-color:: #497d46
