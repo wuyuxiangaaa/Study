@@ -2,7 +2,8 @@
   1. {{embed [[rainbow]] }}
 -
   2. {{embed [[mood]]}}
-- 3. influence((n./v.)) ≈ effect((n.)) + affect((v.))
+- 3.
+- influence((n./v.)) ≈ effect((n.)) + affect((v.))
 	- [[influence sb/sth]]
 	  background-color:: #533e7d
 		- Colours influence our moods.
