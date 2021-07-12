@@ -122,4 +122,9 @@
 -
   24. worry((n.[C]))
 	- I need someone to share my worries with.
-	-
+	- sth worry sb
+	- be worried about sb = worry about sb
+-
+  25. method((n.[C])) ≈ way
+	- use these methods to solve the problem
+	- I
