@@ -43,6 +43,7 @@
 -
   6. deal((n./v.)) -> dealt((did)) -> dealt((done))
 	- a great deal = very much
+	  background-color:: #533e7d
 	- It rained a great deal last year.
 	- a great deal of + n.[U]
 		- get a deal of information
