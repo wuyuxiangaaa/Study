@@ -41,7 +41,9 @@
 -
   7. choice((n.[C])) -> choose((v.)) -> chose((did)) -> chosen((done))
 	- make a choice
+	  background-color:: #533e7d
 	- have no choice but to do sth
+	  background-color:: #533e7d
 		- He has no choice but to ask the police.
 		- I have no choice but to do it.
 -
