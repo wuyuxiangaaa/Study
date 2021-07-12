@@ -103,4 +103,7 @@
 	- a shopping list
 	- make a list
 -
-  20. work out
+  20. work out ≈ solve
+	- work it out
+	- The math problem is too difficult to work out.
+	-
