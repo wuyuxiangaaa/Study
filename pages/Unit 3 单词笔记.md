@@ -181,6 +181,7 @@
 	- sth worry sb
 	  background-color:: #533e7d
 	- be worried about sb = worry about sb
+	  background-color:: #533e7d
 -
   25. method((n.[C])) ≈ way
 	- use these methods to solve the problem
