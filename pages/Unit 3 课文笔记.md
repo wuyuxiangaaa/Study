@@ -41,4 +41,4 @@
 - It takes time.
 - as + adj. + as possible
 - read aloud
--
+- Don‘’
