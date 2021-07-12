@@ -45,7 +45,9 @@
 	- have no choice but to do sth
 	  background-color:: #533e7d
 		- He has no choice but to ask the police.
+		  background-color:: #264c9b
 		- I have no choice but to do it.
+		  background-color:: #264c9b
 -
   8. but
 	- There's noting but a desk in the room.
