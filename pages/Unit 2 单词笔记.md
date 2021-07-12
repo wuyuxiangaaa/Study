@@ -32,7 +32,9 @@
   16. {{embed [[remind]]}}
 -
   17. {{embed [[wisdom]]}}
-- 18. as((conj.))
+-
+  18. {{embed [[as]]}}
+- as((conj.))
 	- because
 	  background-color:: #978626
 	- since
