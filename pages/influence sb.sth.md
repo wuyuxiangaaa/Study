@@ -1,1 +1,2 @@
-background-color:: #533e7d
+- Colours influence our moods.
+  background-color:: #264c9b
