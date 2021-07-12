@@ -12,8 +12,6 @@
   6. {{embed [[calm]]}}
 -
   7. {{embed [[relax]]}}
-	- relax oneself
-	  background-color:: #533e7d
 - 8. peace((n.)) -> peaceful((adj.)) -> peacefully
 	- We love peace.
 	  background-color:: #264c9b
