@@ -1,5 +1,4 @@
 -
-  collapsed:: true
   1. {{embed [[rainbow]] }}
 -
   2. {{embed [[mood]]}}
