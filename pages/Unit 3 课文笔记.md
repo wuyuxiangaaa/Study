@@ -38,4 +38,5 @@
 - laugh at sb
 - call sb sth
 - make little progress
--
+- It takes time.
+- as
