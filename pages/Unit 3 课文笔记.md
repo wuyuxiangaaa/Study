@@ -22,4 +22,8 @@
 - allow doing sth
 - be strict with sb in sth
 - develop((v.)) -> developing((doing)) -> developed((did))
+- stay out late
+- look forward to doing sth
+- reply to sb
+- stay up late to do sth
 -
