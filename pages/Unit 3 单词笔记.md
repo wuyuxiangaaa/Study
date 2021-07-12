@@ -130,4 +130,4 @@
 	- I don't know how to solve it.
 -
   26. dictionary((n.[C)) -> dictionaries((pl.))
-	- l
+	- look happens of words in the dictionary.
