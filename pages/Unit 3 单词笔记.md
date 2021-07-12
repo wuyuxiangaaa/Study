@@ -104,6 +104,13 @@
 	- make a list
 -
   20. work out ≈ solve
-	- work it out
 	- The math problem is too difficult to work out.
+	- work it out
+		- The problem is so difficult that I can't work it out.
+-
+  21. according to sth
+-
+  22. whom -> who -> whose
+	- I don't know whom/who I will talk with/to.
+	- I don't konw whom/who to talk to.
 	-
