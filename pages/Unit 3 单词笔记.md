@@ -73,4 +73,5 @@
 -
   14. worth((adj.))
 	- The house is worth every penny.
+	- be well worth doing sth
 	-
