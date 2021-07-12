@@ -45,7 +45,8 @@
 -
   23. {{embed [[difficulty]]}}
 -
-  24. {{embed [[]]}} decide((v.)) -> decision((n.))
+  24. {{embed [[decide]]}}
+	- decide((v.)) -> decision((n.))
 	- [[decide to do sth]]
 	  background-color:: #533e7d
 	- [[make a decision to do sth]]
