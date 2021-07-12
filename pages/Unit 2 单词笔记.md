@@ -194,7 +194,7 @@
 	  background-color:: #533e7d
 	- promise sb to do sth 
 	  background-color:: #533e7d
-	- promise sb sth
+	- promise sb sth]]
 	  background-color:: #533e7d
 	- promise sth to sb
 	  background-color:: #533e7d
