@@ -66,7 +66,7 @@
 	  background-color:: #533e7d
 		- I prefer apples to bananas.
 		  background-color:: #264c9b
-	- prefer doing sth to doing sth
+	- [[prefer doing sth to doing sth]]
 	  background-color:: #533e7d
 		- He prefers singing to dancing.
 		  background-color:: #264c9b
