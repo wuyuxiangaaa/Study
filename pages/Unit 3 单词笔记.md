@@ -27,6 +27,7 @@
 	  background-color:: #533e7d
 	  id:: 60e662ec-bbc4-4eae-9b6a-306f11eb984d
 		- [[How ... deal with]]
+		  background-color:: #533e7d
 			- How did you deal with your books?
 	- [[do with]]
 	  background-color:: #533e7d
