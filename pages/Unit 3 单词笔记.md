@@ -163,6 +163,7 @@
 	- I don't know whom/who I will talk with/to.
 	  background-color:: #264c9b
 	- I don't konw whom/who to talk to.
+	  background-color:: #264c9b
 -
   23. silence((n.)) -> silent((adj.))
 	- in silence
