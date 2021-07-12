@@ -20,14 +20,15 @@
   10. {{embed [[purity]]}}
 -
   11. {{embed [[wedding]]}}
-- 12. prefer((v.)) = like ... better -> preferring(doing) -> preferred(did)
-	- prefer to do sth
+- 12.
+	- prefer((v.)) = like ... better -> preferring(doing) -> preferred(did)
+	- [[prefer to do sth]]
 	  background-color:: #533e7d
 		- He prefers to stay at home.
 		  background-color:: #264c9b
-	- prefet sb to do sth
+	- [[prefet sb to do sth]]
 	  background-color:: #533e7d
-	- prefer sth to sth
+	- [[prefer sth to sth]]
 	  background-color:: #533e7d
 		- I prefer apples to bananas.
 		  background-color:: #264c9b
