@@ -12,8 +12,6 @@
   6. {{embed [[calm]]}}
 -
   7. {{embed [[relax]]}}
-	- relaxing music
-	  background-color:: #497d46
 	- relax oneself
 	  background-color:: #533e7d
 - 8. peace((n.)) -> peaceful((adj.)) -> peacefully
