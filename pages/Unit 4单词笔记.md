@@ -9,4 +9,5 @@
 	- mind and body
 		- influence our mind and body
 -
-  2. time
+  2. time((n.[C]))
+- in different times
