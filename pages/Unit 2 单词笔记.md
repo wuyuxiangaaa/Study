@@ -54,12 +54,6 @@
   27. {{embed [[everyday]]}}
 -
   28. {{embed [[person]]}}
-- person((n.[C])) -> personal((adj.))
-  background-color:: #49767b
-	- fill in personal information
-	  background-color:: #497d46
-	- personal taste
-	  background-color:: #497d46
 - 29. suit((v.)) -> suitable((adj.)) ≈ fit
 	- suit/fit sb very well
 	  background-color:: #533e7d
