@@ -153,6 +153,7 @@
 	- The math problem is too difficult to work out.
 	  background-color:: #264c9b
 	- work it out
+	  background-color:: #533e7d
 		- The problem is so difficult that I can't work it out.
 -
   21. according to sth
