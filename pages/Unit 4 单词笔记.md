@@ -43,4 +43,4 @@
 -
   22. {{embed [[remain ]] }}
 -
-  23. {{embed [[notice]]}}
+  23. {{embed [[take notice of]]}}
