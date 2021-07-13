@@ -1,0 +1,1 @@
+- [[have trouble (in) doing sth]] =
