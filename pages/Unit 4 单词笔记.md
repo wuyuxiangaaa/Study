@@ -16,3 +16,4 @@
   8. {{embed [[lose]]}}
 -
   9. {{embed [[score]]}}
+- 10
