@@ -7,7 +7,8 @@
 -
   4. {{embed [[through]]}}
 -
-  5. as soon as
+  5. {{embed [[as soon as]]}}
+- as soon as
 	- I'll call you as soon as I arrive in Shanghai tomorrow.
 	  background-color:: #264c9b
 -
