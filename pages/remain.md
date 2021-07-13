@@ -1,0 +1,3 @@
+- remain((vi./lv.))
+	- remain silent
+	- remain in hospital for a month
