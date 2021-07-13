@@ -1,2 +1,2 @@
--
+- [[succeed in doing sth]] = [[be sccessful in doing sth]] = [[do sth successfully]] = [[manage to do sth]]
 - succeed in doing sth
