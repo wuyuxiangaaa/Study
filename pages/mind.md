@@ -6,8 +6,7 @@
 	  background-color:: #264c9b
 	- mind doing sth
 	  background-color:: #533e7d
-	- {{embed [[介意某人做某事]]
-	- }}
+	- {{embed [[介意某人做某事]] }}
 	- mind one's doing sth
 	  background-color:: #533e7d
 	- mind sb doing sth
