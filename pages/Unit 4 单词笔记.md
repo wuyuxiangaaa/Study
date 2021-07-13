@@ -6,9 +6,6 @@
   3. {{embed [[whenever]]}}
 -
   4. {{embed [[through]]}}
-- through((prep.))
-	- We get some information through the Internet.
-	  background-color:: #264c9b
 -
   5. as soon as
 	- I'll call you as soon as I arrive in Shanghai tomorrow.
