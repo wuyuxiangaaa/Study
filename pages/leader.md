@@ -6,5 +6,3 @@
 	- {{embed [[lead doing sth]] }}
 	  done:: 1626147969395
 	  later:: 1626147967828
-	  background-color:: #533e7d
-	-
