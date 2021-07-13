@@ -1,4 +1,5 @@
 - lose((v.))
+  background-color:: #49767b
 	- lose heart
 		- Don't lose heart, you'll catch up with others if you study harder.
 	- lose one's way
