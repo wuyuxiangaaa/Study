@@ -1,4 +1,5 @@
-- National Day
-- a national flag
-- national championship
-	- take part in the national championship
+- national((adj.)) -> nation((n.))
+	- National Day
+	- a national flag
+	- national championship
+		- take part in the national championship
