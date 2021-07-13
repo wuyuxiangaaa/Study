@@ -1,2 +1,3 @@
 - simply((adv.)) -> simple((adj.))
 - He was late for school simply because he didn't want to get up.
+- I simply can't believe it.
