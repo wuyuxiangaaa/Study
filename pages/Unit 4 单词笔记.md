@@ -4,8 +4,8 @@
   2. {{embed [[time]]}}
 -
   3. {{embed [[whenever]]}}
--
-  4. through((prep.))
+- 4.
+- through((prep.))
 	- We get some information through the Internet.
 	  background-color:: #264c9b
 -
