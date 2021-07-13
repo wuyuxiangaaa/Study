@@ -2,4 +2,4 @@
 	- try out for the actors
 	- try out for the school team
 - [[try on]]
-- try one's best to do sth
+- [[try one's best to do sth]]
