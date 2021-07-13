@@ -2,10 +2,6 @@
   1. {{embed [[mind]] }}
 -
   2. {{embed [[time]]}}
-- time((n.[C]/n.[U]))
-  background-color:: #264c9b
-	- in different times
-	  background-color:: #497d46
 -
   3. whenever((conj.)) = no matter when
 	- I will help you whenever you need help.
