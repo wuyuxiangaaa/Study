@@ -1,10 +1,10 @@
 - mind((n./v.))
   background-color:: #49767b
-	- on one's mind
+	- [[on one's mind]]
 	  background-color:: #533e7d
 	- What's on your mind?
 	  background-color:: #264c9b
-	- mind doing sth
+	- [[mind doing sth]]
 	  background-color:: #533e7d
 	- {{embed [[介意某人做某事]] }}
 	- [[change one's mind]]
