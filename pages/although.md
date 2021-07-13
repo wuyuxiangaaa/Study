@@ -1,2 +1,3 @@
 - although((conj.)) => but
--
+	- Although he was il yesterday, he went to school.
+	- Although she fell over in the race, she came first.
