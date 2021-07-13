@@ -1,7 +1,8 @@
 -
   1. {{embed [[mind]] }}
 -
-  2. time((n.[C]))
+  2. {{embed [[time]]}}
+	- time((n.[C]))
 	- in different times
 	  background-color:: #497d46
 -
