@@ -1,2 +1,4 @@
 - succeed((v.)) -> success((n.)) -> successful((adj.)) -> successfully((adv.))
-- 、
+- {{embed [[成功做某事]]}}
+-
+-
