@@ -1,1 +1,3 @@
 - leader((n.)) -> lead((v.))
+	- He wants to be a leader.
+	- lead to sp
