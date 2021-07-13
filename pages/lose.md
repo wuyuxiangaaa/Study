@@ -1,2 +1,6 @@
 - lose heart
 - Don't lose heart, you'll catch up with others if you study harder.
+- lose one's way
+- lose oneself in sth
+- lose one's heart to sb
+-
