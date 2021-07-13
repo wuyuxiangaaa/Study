@@ -10,5 +10,5 @@
 	  background-color:: #533e7d
 		- He lost himself in computer games.
 		  background-color:: #264c9b
-	- lose one's heart to sb
+	- [[lose one's heart to sb]]
 	  background-color:: #533e7d
