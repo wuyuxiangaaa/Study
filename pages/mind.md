@@ -10,6 +10,7 @@
 	- mind one's doing sth
 	  background-color:: #533e7d
 	- mind sb doing sth
+	  background-color:: #533e7d
 	- change one's mind
 	  background-color:: #533e7d
 	- make up one's mind to do sth
