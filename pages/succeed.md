@@ -1,1 +1,2 @@
-- succeed((v.)) ->
+- succeed((v.)) -> success((n.)) -> successful((adj.)) -> successfully((adv.))
+- 、
