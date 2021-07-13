@@ -3,8 +3,6 @@
 	- {{embed [[需要做某事]]}}
 	- {{embed [[需要某人做某事]]}}
 	- {{embed [[需要被做某事]] }}
-	-
-	  background-color:: #533e7d
 	- [[require/need sb to do sth]]
 	  background-color:: #533e7d
 	- [[require/need doing]]
