@@ -32,4 +32,5 @@
   16. {{embed [[succeed]] }}
 -
   17. {{embed [[scholarship]] }}
-- ´18. {{embed [[although]] }}
+-
+  18. {{embed [[although]] }}
