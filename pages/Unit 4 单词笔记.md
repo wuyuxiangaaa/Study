@@ -39,7 +39,7 @@
 -
   20. {{embed [[force]]}}
 -
-  21. {{embed [[league]]}}
+  21. {{embed [[league]] }}
 -
   22. {{embed [[remain ]] }}
 -
