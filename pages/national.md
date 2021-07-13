@@ -1,4 +1,4 @@
 - National Day
 - a national flag
 - national championship
-- take part in the national championship
+	- take part in the national championship
