@@ -12,4 +12,6 @@
   6. {{embed [[deal]]}}
 -
   7. {{embed [[try]]}}
-- 8.
+-
+  8. {{embed [[lose]]}}
+- 9.
