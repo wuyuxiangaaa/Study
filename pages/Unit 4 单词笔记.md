@@ -16,7 +16,8 @@
   8. {{embed [[lose]]}}
 -
   9. {{embed [[score]]}}
-- 10.
+-
+  10. {{embed [[stand]]}}
 - 11.
 - 12.
 -
