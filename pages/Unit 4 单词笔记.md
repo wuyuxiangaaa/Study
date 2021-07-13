@@ -2,7 +2,7 @@
   1. {{embed [[mind]] }}
 -
   2. {{embed [[time]]}}
-	- time((n.[C]))
+- time((n.[C]/n.[U]))
 	- in different times
 	  background-color:: #497d46
 -
