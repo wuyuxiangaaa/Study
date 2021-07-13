@@ -3,7 +3,9 @@
 -
   2. {{embed [[time]]}}
 -
-  3. whenever((conj.)) = no matter when
+  3. {{embed [[whenever]]}}
+- whenever((conj.)) = no matter when
+  background-color:: #49767b
 	- I will help you whenever you need help.
 	  background-color:: #264c9b
 	- whatever = no matter what
