@@ -6,7 +6,7 @@
 	  background-color:: #793e3e
 	- [[wherever]] = no matter where
 	  background-color:: #793e3e
-	- however = no matter how
+	- [[however]] = no matter how
 	  background-color:: #793e3e
-	- whoever = no matter who
+	- [[whoever]] = no matter who
 	  background-color:: #793e3e
