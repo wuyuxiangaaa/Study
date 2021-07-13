@@ -4,7 +4,7 @@
 	  background-color:: #533e7d
 		- He prefers to stay at home.
 		  background-color:: #264c9b
-	- [[prefet sb to do sth]]
+	- [[prefer sb to do sth]]
 	  background-color:: #533e7d
 	- [[prefer sth to sth]]
 	  background-color:: #533e7d
