@@ -1,6 +1,6 @@
 - balance((n./v.))
   background-color:: #49767b
-	-
+	- {{embed [[获得平衡]]}}
 	- [[get/receive a balance]]
 	  background-color:: #533e7d
 	- [[balance A and B]]
