@@ -1,0 +1,3 @@
+- force((n./v.))
+	- force sb to do sth
+		- My parents never force me to study hard.
