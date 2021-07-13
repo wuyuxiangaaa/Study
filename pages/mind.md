@@ -6,6 +6,7 @@
 	  background-color:: #264c9b
 	- mind doing sth
 	  background-color:: #533e7d
+	-
 	- mind one's doing sth
 	  background-color:: #533e7d
 	- mind sb doing sth
