@@ -1,5 +1,6 @@
 - suit((v.)) -> suitable((adj.)) ≈ fit
   background-color:: #49767b
+	- 、
 	- [[suit/fit sb very well]]
 	  background-color:: #533e7d
 		- The coat suits were very well.
