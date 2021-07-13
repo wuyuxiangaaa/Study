@@ -1,2 +1,3 @@
-- a university
-- go to university|college/school
+- university((n.[C]))
+	- a university
+	- go to university|college/school
