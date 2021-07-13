@@ -20,5 +20,7 @@
   10. {{embed [[stand]]}}
 -
   11. {{embed [[leader]]}}
-- 12.
+-
+  12. {{embed [[name]]}}
+-
 -
