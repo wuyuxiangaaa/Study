@@ -1,0 +1,2 @@
+- achievement((n.[C])) -> achieve((v.))
+	- make great achievements
