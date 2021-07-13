@@ -1,0 +1,2 @@
+- scholarship((n.[C]))
+	- get a scholarship
