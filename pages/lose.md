@@ -1,6 +1,7 @@
-- lose heart
-	- Don't lose heart, you'll catch up with others if you study harder.
-- lose one's way
-- lose oneself in sth
-	- He lost himself in computer games.
-- lose one's heart to sb
+- lose((v.))
+	- lose heart
+		- Don't lose heart, you'll catch up with others if you study harder.
+	- lose one's way
+	- lose oneself in sth
+		- He lost himself in computer games.
+	- lose one's heart to sb
