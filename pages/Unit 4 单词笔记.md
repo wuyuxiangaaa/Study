@@ -8,11 +8,9 @@
   4. {{embed [[through]]}}
 -
   5. {{embed [[as soon as]]}}
-- as soon as
-	- I'll call you as soon as I arrive in Shanghai tomorrow.
-	  background-color:: #264c9b
 -
-  6. deal((n./v.)) -> dealt((did)) -> dealt((done))
+  6. {{embed [[deal]]}}
+- deal((n./v.)) -> dealt((did)) -> dealt((done))
 	- a great deal = very much
 	  background-color:: #533e7d
 		- It rained a great deal last year.
