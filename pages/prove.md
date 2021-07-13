@@ -1,0 +1,3 @@
+- prove((vt.))
+	- prove ... to be ...
+		- He proves himself to be an excellent student.
