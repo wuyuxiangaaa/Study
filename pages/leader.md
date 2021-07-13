@@ -1,2 +1,2 @@
-- leader((n.)) -> [[lead]]((v.))
+- leader((n.)) -> [[lead]]
 	- He wants to be a leader.
