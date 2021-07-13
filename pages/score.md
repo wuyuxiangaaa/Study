@@ -1,0 +1,4 @@
+- score((n./v.))
+	- score five points
+	- score the goal
+	- twenty scores
