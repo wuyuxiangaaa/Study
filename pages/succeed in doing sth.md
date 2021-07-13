@@ -4,8 +4,8 @@
   [[succeed in doing sth]] = [[be sccessful in doing sth]] = [[do sth successfully]] = [[manage to do sth]]
   #+END_NOTE<
 -
-  #+BEGIN_EXPORT ascii
-  A
+  #+BEGIN_EXPORT
+  [[succeed in doing sth]] = [[be sccessful in doing sth]] = [[do sth successfully]] = [[manage to do sth]]
   #+END_EXPORT
 	- [[succeed in doing sth]] = [[be sccessful in doing sth]] = [[do sth successfully]] = [[manage to do sth]]
 	  background-color:: #533e7d
