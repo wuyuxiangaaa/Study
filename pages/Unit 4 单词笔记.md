@@ -1,5 +1,6 @@
 -
-  1. {{embed [[mind]] }} mind((n./v.))
+  1. {{embed [[mind]] }}
+- mind((n./v.))
 	- on one's mind
 	  background-color:: #533e7d
 		- What's on your mind?
