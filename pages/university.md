@@ -1,1 +1,1 @@
-- go to university
+- go to university|college/school
