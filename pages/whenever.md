@@ -1,4 +1,4 @@
-- whenever((conj.)) = no matter when
+- whenever(conj.) = no matter when
   background-color:: #49767b
 	- I will help you whenever you need help.
 	  background-color:: #264c9b
