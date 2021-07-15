@@ -96,3 +96,4 @@
 -
   48. {{embed [[research]] }}
 -
+  49. {{embed [[death]] }}
