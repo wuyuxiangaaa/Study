@@ -1,1 +1,1 @@
-- prove ... to be
+- prove ... to be #prove
