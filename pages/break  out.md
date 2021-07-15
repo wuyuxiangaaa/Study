@@ -1,4 +1,4 @@
-- break out
+- break o
 	- A war will break out.
 	- [[break down]]
 	- [[break into]]
