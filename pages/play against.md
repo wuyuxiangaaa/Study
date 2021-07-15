@@ -1,2 +1,2 @@
 - play against #against
--
+	- Don't do anything against laws.
