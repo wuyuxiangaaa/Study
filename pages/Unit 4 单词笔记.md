@@ -66,7 +66,8 @@
   33. {{embed [[spirit]] }}
 -
   34. {{embed [[Jew]] }}
-- {{embed [[go into hiding sp]] }}
+-
+  35. {{embed [[go into hiding sp]] }}
 -
   36. {{embed [[Nazi]] }}
 -
