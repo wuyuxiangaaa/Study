@@ -1,5 +1,4 @@
-- go into hiding sp
-	-
+- go into hiding sp #hide
 	- the snake went into hiding in a hole.
 	- hide behind the tree
 	- go into hiding in the office
