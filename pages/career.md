@@ -1,2 +1,2 @@
-- career((
+- career((n.))
 - {{embed [[in one's career]] }}
