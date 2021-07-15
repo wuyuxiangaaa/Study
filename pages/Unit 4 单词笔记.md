@@ -83,4 +83,6 @@
   41. {{embed [[admire]] }}
 -
   42. {{embed [[courage]] }}
-- 43.
+-
+  43. {{embed [[in fear of one's life]] }}
+-
