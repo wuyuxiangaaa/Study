@@ -1,4 +1,4 @@
-- mood((n.[C]))
+- mood(n.[C])
   background-color:: #49767b
 	- [[in a good mood]]
 	  background-color:: #533e7d

@@ -1,4 +1,4 @@
-- relax((v.)) -> relaxed((adj.))/relaxing(adj.)
+- relax((v.)) -> relaxed(adj.)/relaxing(adj.)
   background-color:: #49767b
 	- feel relaxed
 	  background-color:: #497d46

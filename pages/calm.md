@@ -1,4 +1,4 @@
-- calm((adj./v.))
+- calm(adj./v.)
   background-color:: #49767b
 	- calm colours
 	  background-color:: #497d46
