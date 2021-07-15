@@ -64,4 +64,6 @@
   32. {{embed [[victory]]}}
 -
   33. {{embed [[spirit]] }}
-- 34.
+-
+  34. {{embed [[Jew]] }}
+-
