@@ -1,1 +1,1 @@
-- lose the courage to do sth
+- lose the courage to do sth #lose #courage
