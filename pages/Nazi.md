@@ -1,0 +1,3 @@
+- Nazi(adj./n.)
+	- a Nazi camp
+	- the German Nazi
