@@ -68,4 +68,5 @@
   34. {{embed [[Jew]] }}
 - {{embed [[go into hiding sp]] }}
 - {{embed [[Nazi]] }}
-- 37.
+-
+  37. {{embed [[die of]] }}
