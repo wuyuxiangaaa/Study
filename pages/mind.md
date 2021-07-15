@@ -6,8 +6,7 @@
 	- {{embed [[mind doing sth]]}}
 	- {{embed [[介意某人做某事]] }}
 	- {{embed [[change one's mind]] }}
-	- [[make up one's mind to do sth]]
-	  background-color:: #533e7d
+	- {{embed [[make up one's mind to do sth]] }}
 	- mind and body
 	  background-color:: #497d46
 		- influence our mind and body
