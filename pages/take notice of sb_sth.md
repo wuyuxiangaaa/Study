@@ -1,1 +1,1 @@
-- take notice of sb|sth #[[take notice of sb_sth]]
+- take notice of sb|sth
