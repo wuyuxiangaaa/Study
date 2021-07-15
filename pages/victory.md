@@ -1,2 +1,2 @@
 - victory(n.)
-	-
+	- the joy of victory
