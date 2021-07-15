@@ -1,1 +1,3 @@
 - thought(n.[C]) ≈ idea
+	- write down your thoughts
+	-
