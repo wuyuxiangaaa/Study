@@ -5,8 +5,6 @@
 		  background-color:: #264c9b
 	- {{embed [[lose one's way]]}}
 	- {{embed [[lose oneself in sth]]}}
-	  background-color:: #533e7d
 		- He lost himself in computer games.
 		  background-color:: #264c9b
 	- {{embed [[lose one's heart to sb]]}}
-	  background-color:: #533e7d
