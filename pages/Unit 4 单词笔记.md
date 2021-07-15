@@ -13,7 +13,7 @@
 -
   7. {{embed [[try out for sth]]}}
 -
-  8. {{embed [[lose]]}}
+  8. {{embed [[lose heart]]}}
 -
   9. {{embed [[score]]}}
 -
