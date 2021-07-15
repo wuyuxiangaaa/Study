@@ -3,7 +3,7 @@
 	- {{embed [[on one's mind]] }}
 	- What's on your mind?
 	  background-color:: #264c9b
-	- [[mind doing sth]]
+	- {{embed [[mind doing sth]]}}
 	  background-color:: #533e7d
 	- {{embed [[介意某人做某事]] }}
 	- [[change one's mind]]
