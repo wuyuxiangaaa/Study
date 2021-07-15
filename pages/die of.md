@@ -1,2 +1,2 @@
 - die of #die
-	- He died of illness
+	- He died of illness.
