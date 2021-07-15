@@ -4,7 +4,6 @@
 	- What's on your mind?
 	  background-color:: #264c9b
 	- {{embed [[mind doing sth]]}}
-	  background-color:: #533e7d
 	- {{embed [[介意某人做某事]] }}
 	- [[change one's mind]]
 	  background-color:: #533e7d
