@@ -1,4 +1,3 @@
 - spirit(n.)
 	- the spirit of adventure
 	- the human spirit
-	- We should have team spirit.
