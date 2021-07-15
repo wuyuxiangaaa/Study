@@ -1,2 +1,2 @@
-- sadness((n.)) ≈ happiness((n.)) -> sad((adj.)) -> sadly(adv.))
+- sadness(n.) ≈ happiness(n.) -> sad(adj.) -> sadly(adv.)
   background-color:: #497d46

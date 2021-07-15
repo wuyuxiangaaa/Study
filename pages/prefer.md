@@ -1,4 +1,4 @@
-- prefer((v.)) = like ... better -> preferring(doing) -> preferred(did)
+- prefer(v.) = like ... better -> preferring(doing) -> preferred(did)
   background-color:: #49767b
 	- [[prefer to do sth]]
 	  background-color:: #533e7d
