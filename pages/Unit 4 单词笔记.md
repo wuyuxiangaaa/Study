@@ -80,3 +80,5 @@
 -
   40. {{embed [[survive]] }}
 -
+  41. {{embed [[admire]] }}
+-
