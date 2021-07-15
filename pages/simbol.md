@@ -1,2 +1,2 @@
-- {{embed [[a symbol of sth]]}}
 -
+	- {{embed [[a symbol of sth]]}}
