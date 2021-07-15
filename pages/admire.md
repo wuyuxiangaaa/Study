@@ -1,0 +1,2 @@
+- admire(vt.)
+	- {{embed [[admire sb]]}}
