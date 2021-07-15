@@ -1,6 +1,5 @@
 - [[a great deal]] = [[very much]]
   background-color:: #533e7d
--
 - a great deal #deal
   background-color:: #533e7d
 	- It rained a great deal last year.
