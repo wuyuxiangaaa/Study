@@ -1,1 +1,1 @@
-- thought(n.[C])
+- thought(n.[C]) ≈ idea
