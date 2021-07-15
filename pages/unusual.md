@@ -1,1 +1,1 @@
-- unusual(adj.) = - usual
+- unusual(adj.) = -usual
