@@ -1,4 +1,4 @@
-- mind((n./v.))
+- mind(n./v.)
   background-color:: #49767b
 	- {{embed [[on one's mind]] }}
 	- What's on your mind?
