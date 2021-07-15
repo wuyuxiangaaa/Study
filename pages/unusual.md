@@ -1,3 +1,3 @@
 - unusual(adj.) = -usual
 	- something unusual
-	- {{embed [[usual]] }}
+	- {{embed [[as usual]] }}
