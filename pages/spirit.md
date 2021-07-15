@@ -1,1 +1,4 @@
-- spirit
+- spirit(n.)
+	- the spirit of adventure
+	- the human spirit
+	-
