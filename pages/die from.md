@@ -1,2 +1,2 @@
-- die from
+- die from #die
 	- The dog died from an earthquake.
