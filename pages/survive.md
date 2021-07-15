@@ -1,4 +1,5 @@
 - survive(vt.) -> survivor(n.)
 	- survive the earthquake
 	- survive the war
-	-
+		- Nobody survive the war.
+	- Nobody survive
