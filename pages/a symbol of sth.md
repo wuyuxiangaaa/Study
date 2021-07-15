@@ -1,0 +1,3 @@
+- a symbol of sth
+	- a symbol of success
+	- a symbol of victory
