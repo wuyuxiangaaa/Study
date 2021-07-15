@@ -3,3 +3,4 @@
 	- lose the courage to win the match
 	  background-color:: #497d46
 		- He has lost his courage to win the match.
+		  background-color:: #264c9b
