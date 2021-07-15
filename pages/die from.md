@@ -1,2 +1,2 @@
 - die from
-- The dog died from an earthquake.
+	- The dog died from an earthquake.
