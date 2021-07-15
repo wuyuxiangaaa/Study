@@ -10,7 +10,8 @@
   5. {{embed [[as soon as]]}}
 -
   6. {{embed [[deal]]}}
-- {{embed [[try out for sth]]}}
+-
+  7. {{embed [[try out for sth]]}}
 -
   8. {{embed [[lose]]}}
 -
