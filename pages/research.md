@@ -1,3 +1,3 @@
 - research(n.[C]/n.[U]/v.)
 	- do medical research
-	- t
+	- {{embed [[the research on sth]] }}
