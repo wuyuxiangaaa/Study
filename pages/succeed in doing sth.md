@@ -3,7 +3,7 @@
   now:: 1626167737080
   later:: 1626167728813
   background-color:: #533e7d
-- succeed in doing sth
+- succeed in doing sth #succeed
   background-color:: #533e7d
 	- He has succeeded in passing the exam.
 	  background-color:: #264c9b
