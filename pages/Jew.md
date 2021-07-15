@@ -1,3 +1,3 @@
-- Jew(n.) -> jewish(adj.)
+- Jew(n.) -> Jewish(adj.)
 	- a Jew
 	- some Jews
