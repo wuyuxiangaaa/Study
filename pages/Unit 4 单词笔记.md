@@ -82,3 +82,5 @@
 -
   41. {{embed [[admire]] }}
 -
+  42. {{embed [[courage]] }}
+-

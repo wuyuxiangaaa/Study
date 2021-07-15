@@ -1,0 +1,2 @@
+- courage(n.) -> encourage(v.)
+	- {{encourage sb to do sth}}
