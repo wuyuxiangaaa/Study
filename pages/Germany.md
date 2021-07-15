@@ -1,1 +1,5 @@
-- Germany(n.)
+- Germany(n.) -> German(adj./n.)
+	- come from German
+	- two Germans
+	- in German
+		- Can you say it in German?
