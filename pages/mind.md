@@ -5,7 +5,7 @@
 	  background-color:: #264c9b
 	- {{embed [[mind doing sth]]}}
 	- {{embed [[介意某人做某事]] }}
-	- {{embed [[change one's mind]]}}
+	-
 	  background-color:: #533e7d
 	- [[make up one's mind to do sth]]
 	  background-color:: #533e7d
