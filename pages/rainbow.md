@@ -1,4 +1,4 @@
-- rainbow((n.[C]))
+- rainbow(n.[C])
   background-color:: #49767b
 	- There is a rainbow in the sky.
 	  background-color:: #264c9b
