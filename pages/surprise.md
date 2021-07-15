@@ -1,0 +1,4 @@
+- surprise(n./v.) -> surprised(adj.)/surprising(adj.)
+	- {{embed [[in surprise]] }}
+	- {{embed [[to one's surprise]] }}
+	-
