@@ -1,0 +1,2 @@
+- try out for the actors
+- try out for the school team
