@@ -59,3 +59,6 @@
 -
   30. {{embed [[break  out]]}}
 -
+  31. {{embed [[symbol]]}}
+-
+  32. {{embed [[victory]]}}

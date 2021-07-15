@@ -1,0 +1,2 @@
+- {{embed [[a symbol of sth]]}}
+-
