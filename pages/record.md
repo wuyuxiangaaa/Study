@@ -1,2 +1,4 @@
 - record(n./v.)
--
+	- {{embed [[a record of that time]]}}
+	- {{embed [[record the result]]}}
+	-
