@@ -1,0 +1,2 @@
+- die of
+- He died of illness
