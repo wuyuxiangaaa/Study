@@ -1,1 +1,1 @@
-- death(n.) -> die(v.) -> dead(adj.)
+- death(n.) -> die(v.) -> dead(adj.)/dying(adj.)
