@@ -14,4 +14,8 @@
   7. {{embed [[talent]] }}
 -
   8. {{embed [[boundary]] }}
-- 9.
+-
+  9. {{embed [[medal]] }}
+-
+  10. {{embed [[present]] }}
+- 11.
