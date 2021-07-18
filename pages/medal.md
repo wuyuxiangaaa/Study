@@ -1,1 +1,2 @@
-- medal
+- medal(n.[C])
+	- win a medal
