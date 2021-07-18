@@ -1,3 +1,3 @@
-- photography
+- photography(n.) -> photograph(n.)
 	- She likes photography.
 	- He is interested in photography.
