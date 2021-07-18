@@ -1,3 +1,3 @@
 - art form #art #form
 	- different art forms
-	-
+	- art(n./adj.)
