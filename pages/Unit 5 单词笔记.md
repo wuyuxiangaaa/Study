@@ -29,7 +29,7 @@
 -
   15. {{embed [[common]] }}
 -
-  16. {{embed [[strone]] }}
+  16. {{embed [[stone]] }}
 -
   17. {{embed [[music]] }}
 -
