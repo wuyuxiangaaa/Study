@@ -1,1 +1,1 @@
-- traditional(adj.)
+- traditional(adj.) -> tradition(n.)
