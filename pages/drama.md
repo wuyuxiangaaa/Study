@@ -1,0 +1,4 @@
+- drama(n.[U])
+	- I like drama.
+	- a drama performance
+	- a drama club
