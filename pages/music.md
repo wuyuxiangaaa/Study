@@ -1,0 +1,1 @@
+- music(n.) -> musician(n.[C])
