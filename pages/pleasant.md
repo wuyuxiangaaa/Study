@@ -1,4 +1,5 @@
 - pleasant(adj.) -> pleased(adj.) -> pleasure(n.) -> please(v.)
 	- a pleasant holiday
 	- a pleasant trip
-	- {{embed}}
+	- {{embed [[对某人某事感到满意]] }}
+	-
