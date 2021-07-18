@@ -1,0 +1,3 @@
+-
+- She likes photography.
+- He is interested in photography.
