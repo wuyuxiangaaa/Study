@@ -1,0 +1,2 @@
+- pleasant(adj.) -> pleased(adj.) -> pleasure(n.) -> please(v.)
+-
