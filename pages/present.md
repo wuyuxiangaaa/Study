@@ -1,3 +1,3 @@
-- present(n.)
-- {{embed [[at present]] }}
-- a beautiful present
+- present(n./v.)
+	- {{embed [[at present]] }}
+	- a beautiful present
