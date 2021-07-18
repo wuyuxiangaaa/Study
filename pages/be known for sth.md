@@ -1,1 +1,2 @@
-- [[be known for sth]] =
+- [[be known for sth]] = [[be famous for sth]]
+-
