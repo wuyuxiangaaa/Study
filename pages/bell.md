@@ -1,0 +1,2 @@
+- bell(n.[C])
+	- The bell is ringing.
