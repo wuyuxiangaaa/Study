@@ -1,0 +1,2 @@
+- winner(n.[C])
+	- the winners' names
