@@ -1,1 +1,2 @@
-- music(n.[U]) -> musician(n.[C]) -> musical
+- music(n.[U]) -> musician(n.[C]) -> musical(adj.)
+	- a great musician
