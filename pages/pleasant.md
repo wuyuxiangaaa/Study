@@ -3,4 +3,5 @@
 	- a pleasant holiday
 	  background-color:: #497d46
 	- a pleasant trip
+	  background-color:: #497d46
 	- {{embed [[对某人某事感到满意]] }}
