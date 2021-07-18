@@ -1,0 +1,2 @@
+- pop(n.[C]) = pop music
+	- The boy likes pop music.
