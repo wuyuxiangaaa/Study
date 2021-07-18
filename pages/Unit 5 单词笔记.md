@@ -22,4 +22,6 @@
   11. {{embed [[winner]] }}
 -
   12. {{embed [[composer]] }}
-- 13.
+-
+  13. {{embed [[central]] }}
+-
