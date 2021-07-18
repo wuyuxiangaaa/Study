@@ -47,4 +47,3 @@
   23. {{embed [[though]] }}
 -
   24. {{embed [[dividing line]] }}
--
