@@ -1,3 +1,3 @@
 - central(adj.) -> centre(n.)
 	- a central city
-	- {{embed }}
+	- {{embed [[in the centre of sth]] }}
