@@ -1,1 +1,2 @@
-- talent(n.[C])
+- talent(n.[C]/n.[U])
+	- He has musical talent.
