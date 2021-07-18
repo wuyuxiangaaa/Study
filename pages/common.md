@@ -1,3 +1,3 @@
 - common(adj./n.)
 	- a common topic/object
-	-
+	- {{embed [[in common]] }}
