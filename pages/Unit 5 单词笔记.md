@@ -35,4 +35,6 @@
 -
   18. {{embed [[be known for sth]] }}
   {{embed [[be famous for sth]] }}
-- 19.
+-
+  19. {{embed [[control]] }}
+-
