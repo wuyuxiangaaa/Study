@@ -32,4 +32,7 @@
   16. {{embed [[strone]] }}
 -
   17. {{embed [[music]] }}
-- 18.
+-
+  18. {{embed [[be known for sth]] }}
+  {{embed [[be famous for sth]] }}
+- 19.
