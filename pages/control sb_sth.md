@@ -1,3 +1,3 @@
-- control sb|sth
+- control sb|sth #control
 	- control the speed
 	- control your mood
