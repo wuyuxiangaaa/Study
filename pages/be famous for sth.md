@@ -1,3 +1,3 @@
 - [[be famous for sth]] = [[be known for sth]]
 - [[be famous as sth]] = [[be known as sth]]
-- [[be famous to sth]] = [[be known to sth]]
+- [[be famous to sb]] = [[be known to sb]]
