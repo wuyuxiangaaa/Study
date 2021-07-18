@@ -1,0 +1,3 @@
+- common(adj./n.)
+	- a common topic/object
+	-

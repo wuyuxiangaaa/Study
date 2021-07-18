@@ -1,0 +1,3 @@
+- stone(n.[C]) ≈ rock
+	- a stone
+	- a rock
