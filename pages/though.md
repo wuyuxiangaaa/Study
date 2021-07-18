@@ -1,2 +1,2 @@
 - though = although
--
+	- Though he felt tired, he didn't stop to have a rest.
