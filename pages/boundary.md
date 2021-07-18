@@ -1,2 +1,3 @@
 - boundary(n.[C]) -> boundaries(n.pl.)
--
+	- There is a boundary between country.
+	- music without boundaries
