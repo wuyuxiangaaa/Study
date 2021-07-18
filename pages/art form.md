@@ -1,3 +1,4 @@
 - art form #art #form
 	- different art forms
-	- art(n./adj.)
+	- art(n./adj.) -> artist(n.)
+	- form(n./v.)
