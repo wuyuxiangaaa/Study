@@ -1,3 +1,4 @@
 - control(v.) -> controlling(doing) -> controlled(done)
 	- {{embed [[control sb|sth]] }}
+	- {{embed [[out of control]] }}
 	-
