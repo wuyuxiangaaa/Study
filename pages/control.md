@@ -1,1 +1,1 @@
-- control(v.)
+- control(v.) -> controlling(doing)
