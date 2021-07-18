@@ -1,1 +1,2 @@
 - traditional(adj.) -> tradition(n.)
+	- traditional festivals
