@@ -43,4 +43,5 @@
   21. {{embed [[traditional]] }}
 -
   22. {{embed [[bell]] }}
-- 23.
+-
+  23. {{embed [[thought]] }}
