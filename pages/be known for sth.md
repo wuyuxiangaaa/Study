@@ -5,3 +5,4 @@
 - [[be known to sb]] = [[be famous to sb]]
   background-color:: #533e7d
 - be known for sth #known
+  background-color:: #533e7d
