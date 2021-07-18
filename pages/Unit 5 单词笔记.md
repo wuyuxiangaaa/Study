@@ -40,4 +40,4 @@
 -
   20. {{embed [[flow]] }}
 -
-  21. traditional
+  21. {{embed [[traditional]]}}
