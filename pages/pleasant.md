@@ -2,4 +2,3 @@
 	- a pleasant holiday
 	- a pleasant trip
 	- {{embed [[对某人某事感到满意]] }}
-	-
