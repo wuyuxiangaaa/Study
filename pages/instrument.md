@@ -1,0 +1,2 @@
+- instrument(n.[C])
+	- some music instruments
