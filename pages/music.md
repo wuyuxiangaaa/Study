@@ -1,1 +1,1 @@
-- music(n.) -> musician(n.[C])
+- music(n.[U]) -> musician(n.[C])
