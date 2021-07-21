@@ -3,3 +3,4 @@
 	- make up a dialogue
 	  background-color:: #497d46
 	- There isn't much dialogue in the novel.
+	  background-color:: #264c9b
