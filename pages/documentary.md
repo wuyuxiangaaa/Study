@@ -1,1 +1,2 @@
-- documentary(n.[C]) ->
+- documentary(n.[C]) -> document(n./v.)
+	- watch many documentaries
