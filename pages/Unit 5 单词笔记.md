@@ -48,6 +48,7 @@
 -
   24. {{embed [[dividing line]] }}
 -
+  collapsed:: true
   25. {{embed [[highly]] }}
 -
   26. {{embed [[breath]] }}
