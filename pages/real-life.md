@@ -1,2 +1,3 @@
-- real-life people
--
+- real-life(adj.)
+	- real-life people
+	- This is a real-life event.
