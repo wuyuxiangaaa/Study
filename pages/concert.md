@@ -1,3 +1,3 @@
 - concert(n.[C])
-	- {{have a concert}}
+	- {{embed [[have a concert]] }}
 	- {{embed [[go to a concert]] }}
