@@ -1,1 +1,2 @@
-- country(n.[C]) ->
+- country(n.[C]) -> countries(n.pl.)
+	-
