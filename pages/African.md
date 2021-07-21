@@ -1,0 +1,3 @@
+- African(n./adj.) -> Afreica(n.)
+	- an African
+	- African American
