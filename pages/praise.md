@@ -1,3 +1,3 @@
 - praise(n./vt.)
 	- {{embed [[praise sb for sth]] }}
-	-
+	- He is worthy of our praise.
