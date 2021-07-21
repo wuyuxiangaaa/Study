@@ -1,2 +1,3 @@
 - highly(adv.) -> high(adj.) -> height(n.)
+	- {{embed [[高度赞扬某人]] }}
 	-
