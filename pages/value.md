@@ -1,2 +1,2 @@
 - value(n.) -> valuable(adj.)
--
+	- {{embed }}
