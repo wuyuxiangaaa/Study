@@ -1,4 +1,5 @@
 - breath(n.) -> breathe(v.)
 	- {{embed [[上气不接下气]] }}
 	- {{embed [[hold one's breath]] }}
+	- {{embed}}
 	- {{embed [[take a deep breath]] }}
