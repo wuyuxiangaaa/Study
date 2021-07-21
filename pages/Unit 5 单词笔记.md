@@ -70,7 +70,7 @@
 -
   34. {{embed [[African]] }}
 -
-  35. {{embed [[make up]] }}
+  35. {{embed [[make up sth]] }}
 -
   36. {{embed [[local colour]] }}
 -
