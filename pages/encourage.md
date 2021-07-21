@@ -1,2 +1,2 @@
 - encourage(v.) -> encouraged(adj.)/encouraging(adj.)
-	- {{embed}}
+	- {{embed [[encourage sb to do sth]] }}
