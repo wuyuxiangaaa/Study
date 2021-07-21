@@ -1,2 +1,3 @@
+- [[speak highly of sb|sth]] = [[think highly of sb|sth]]
 - speak highly of sb|sth #speak #highly
-	-
+	- The teacher spoke highly of the student.
