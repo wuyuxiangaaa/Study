@@ -1,2 +1,2 @@
 - gift(n.)
-	- {{embed }}
+	- {{embed [[have a gift for sth]] }}
