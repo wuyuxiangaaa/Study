@@ -1,2 +1,5 @@
 - done(adj.) -> do(v.) -> did(did)
--
+	- broken
+	- left
+	- hurt
+	-
