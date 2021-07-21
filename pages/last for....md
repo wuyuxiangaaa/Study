@@ -1,2 +1,2 @@
 - last for... #last
-	- last for one and a half hours
+	- last for one and a half hours = last for one hour and a half
