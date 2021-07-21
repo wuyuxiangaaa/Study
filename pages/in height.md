@@ -1,2 +1,3 @@
 - in height #height
--
+	- in weight
+	- in colour
