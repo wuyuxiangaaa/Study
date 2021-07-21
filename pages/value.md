@@ -1,2 +1,3 @@
 - value(n.) -> valuable(adj.)
-	- {{embed }}
+	- {{embed [[对某人有价值]] }}
+	-
