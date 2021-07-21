@@ -1,1 +1,2 @@
-- done(adj.)
+- done(adj.) -> do(v.) -> did(did)
+-
