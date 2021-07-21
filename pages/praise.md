@@ -1,2 +1,2 @@
 - praise(n./vt.)
--
+	- {{embed }}
