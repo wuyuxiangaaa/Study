@@ -1,3 +1,3 @@
 - dialogue(n.[C]/n.[U])
 	- make up a dialogue
-	- There isn't
+	- There isn't much dialogue in the novel.
