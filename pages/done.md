@@ -7,4 +7,6 @@
 	- [[hurt]]
 	  background-color:: #793e3e
 	- My homework is finally done.
+	  background-color:: #264c9b
 	- Your work is never done.
+	  background-color:: #264c9b
