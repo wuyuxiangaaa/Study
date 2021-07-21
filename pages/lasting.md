@@ -1,2 +1,3 @@
 - lasting(adj.)
--
+	- lasting friendship
+	- lasting value
