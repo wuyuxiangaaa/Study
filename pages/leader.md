@@ -3,6 +3,6 @@
 	- He wants to be a leader.
 	  background-color:: #264c9b
 	- {{embed [[lead to sp]] }}
-	- {{embed [[lead doing sth]] }}
+	- {{embed [[lead to doing sth]] }}
 	  done:: 1626147969395
 	  later:: 1626147967828
