@@ -2,4 +2,4 @@
 	- make up a story
 	- make up a music
 	- make up a poem
-	-
+	- [[be made up of sth]]
