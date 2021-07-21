@@ -1,0 +1,3 @@
+- concert(n.[C])
+	- have a concert
+	- go to a concert
