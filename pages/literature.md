@@ -1,1 +1,2 @@
-- literature(n.[C\])
+- literature(n.[U])
+	- learn literature
