@@ -1,0 +1,4 @@
+- comedy(n.[C])
+	- comedy actors
+	- comedy films
+	- She likes comedies.
