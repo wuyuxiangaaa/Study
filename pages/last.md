@@ -1,0 +1,2 @@
+- last(v.)
+	- {{embed [[last for...]] }}
