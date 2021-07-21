@@ -1,2 +1,3 @@
 - country(n.[C]) -> countries(n.pl.)
-	-
+	- live in the country
+	- all over the country
