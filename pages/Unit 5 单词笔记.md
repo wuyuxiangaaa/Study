@@ -61,5 +61,7 @@
 -
   30. {{embed [[cowboy]] }}
 -
-  31. {{embed }}
+  31. {{embed [[guitar]] }}
+- {{embed [[drum]] }}
+- 32.
 -
