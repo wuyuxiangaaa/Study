@@ -1,0 +1,2 @@
+- praise sb for sth #praise
+	- The teacher praise him for getting high marks.

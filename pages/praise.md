@@ -1,2 +1,3 @@
 - praise(n./vt.)
-	- {{embed }}
+	- {{embed [[praise sb for sth]] }}
+	-
