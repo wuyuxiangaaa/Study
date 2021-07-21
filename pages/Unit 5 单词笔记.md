@@ -76,4 +76,7 @@
 -
   37. {{embed [[literature]] }}
 -
-  38. {{embed}}
+  38. {{embed [[praise]] }}
+-
+  39. {{embed [[gift]] }}
+-
