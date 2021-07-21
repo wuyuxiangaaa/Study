@@ -1,3 +1,3 @@
 - in height #height
-	- in weight
-	- in colour
+	- [[in weight]]
+	- [[in colour]]
