@@ -163,4 +163,4 @@
  ;; If we set the level's value to 3, `b` will be opened and `c` will be collapsed.
  :ref/default-open-blocks-level 2
  :ui/show-brackets? false
- :graph/settings {:journal? false, :builtin-pages? false, :orphan-pages? true}}
+ :graph/settings {:journal? true, :builtin-pages? false, :orphan-pages? true}}
