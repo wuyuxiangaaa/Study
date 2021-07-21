@@ -1,0 +1,2 @@
+- lasting(adj.)
+-
