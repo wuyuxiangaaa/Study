@@ -1,0 +1,3 @@
+- mark(n.[C]/v.)
+	- mark in red
+	- There are some marks on the coat.

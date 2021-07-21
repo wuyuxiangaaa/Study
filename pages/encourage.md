@@ -1,0 +1,2 @@
+- encourage(v.) -> encouraged(adj.)/encouraging(adj.)
+	- {{embed}}
