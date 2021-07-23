@@ -26,6 +26,8 @@
   13. {{embed [[cover]] }}
 -
   14. {{embed [[Asian]] }}
-- 15
+-
+  15. {{embed [[vote]] }}
+-
 -
 -
