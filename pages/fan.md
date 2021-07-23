@@ -1,0 +1,4 @@
+- fan(n.[C])
+	- a film fan
+	- a football fan
+	- I need a fan because of the hot weather.
