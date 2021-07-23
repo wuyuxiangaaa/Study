@@ -1,0 +1,1 @@
+- send the text massage to sb|sp

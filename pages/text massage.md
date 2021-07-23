@@ -1,0 +1,3 @@
+- text massage #text #massage
+	- {{embed [[send the text massage to sb|sp]] }}
+	- receive many text messages
