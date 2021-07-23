@@ -45,6 +45,6 @@
 -
   23. {{embed [[mystery]] }}
 -
-  25. {{embed [[might]] }}
+  24. {{embed [[might]] }}
 -
-  26. {{embed }}
+  25. {{embed [[scared]] }}
