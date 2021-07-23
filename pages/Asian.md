@@ -1,4 +1,4 @@
 - Asian(adj./n.) -> Asia(n.)
 	- an Asian
 	- an Asian country
-	- China is in Asia
+	- China is in Asia.
