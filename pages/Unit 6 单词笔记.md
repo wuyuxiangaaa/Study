@@ -32,4 +32,13 @@
   16. {{embed [[music video]] }}
 -
   17. {{embed [[announce]] }}
-- 18.
+-
+  18. {{embed [[text massage]] }}
+-
+  19. {{embed [[murder]] }}
+-
+  20. {{embed [[horror]] }}
+-
+  21. {{embed [[direct]] }}
+-
+  22. {{embed}}
