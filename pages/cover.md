@@ -1,3 +1,3 @@
 - cover(n./v.)
 	- {{embed [[被某物覆盖]] }}
-	- {{embed [[be covered live]]
+	- {{embed [[be covered live]] }}
