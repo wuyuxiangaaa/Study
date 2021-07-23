@@ -29,4 +29,7 @@
 -
   15. {{embed [[vote]] }}
 -
-  16. {{embed}}
+  16. {{embed [[music video]] }}
+-
+  17. {{embed [[announce]] }}
+-
