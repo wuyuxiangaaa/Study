@@ -1,0 +1,2 @@
+- announce(v.) -> announcement(n.)
+	- announce the results
