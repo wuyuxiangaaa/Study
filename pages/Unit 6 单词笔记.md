@@ -43,4 +43,8 @@
 -
   22. {{embed [[wealthy]] }}
 -
-  23. {{embed}}
+  23. {{embed [[mystery]] }}
+-
+  25. {{embed [[might]] }}
+-
+  26. {{embed }}
