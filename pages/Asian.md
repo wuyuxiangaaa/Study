@@ -1,0 +1,3 @@
+- Asian(adj./n.) -> Asia(n.)
+	- an Asian
+	-
