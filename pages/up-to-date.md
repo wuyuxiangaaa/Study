@@ -1,1 +1,2 @@
-- up-to-date(adj.)
+- up-to-date(adj.) ≈ latest
+-
