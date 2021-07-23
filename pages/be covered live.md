@@ -1,2 +1,2 @@
 - be covered live #cover
-	- The chat show will be covered live this evening
+	- The chat show will be covered live this evening.
