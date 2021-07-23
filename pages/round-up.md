@@ -1,1 +1,2 @@
-- round-up(adj.)
+- round-up(n.[C])
+	- a weekly round-up
