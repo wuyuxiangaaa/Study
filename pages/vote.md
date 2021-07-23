@@ -1,2 +1,4 @@
 - vote(vi.)
-	- v
+	- {{embed [[vote for sb|sth]] }}
+	- {{embed [[vote against sb|sth]] }}
+	-
