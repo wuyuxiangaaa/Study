@@ -35,7 +35,7 @@
 -
   18. {{embed [[text massage]] }}
 -
-  19. {{embed [[murder]] }}
+  19. {{embed [[murder]] }}[]
 -
   20. {{embed [[horror]] }}
 -

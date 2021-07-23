@@ -1,1 +1,1 @@
-- send the text massage to sb|sp
+- send the text massage to sb|sp #send #[]text massage
