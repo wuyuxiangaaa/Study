@@ -1,2 +1,3 @@
 - [[vote online for sb|sth]] = -[[vote online against sb|sth]]
 - vote online for sb|sth #vote #online
+	- You may vote online for you favourite singer and song.
