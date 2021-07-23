@@ -1,1 +1,3 @@
 - [[vote against sb|sth]] = -[[vote for sb|sth]]
+- vote against sb|sth #vote
+	- {{embed [[vote online against sb|sth]] }}
