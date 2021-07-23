@@ -1,0 +1,1 @@
+- [[vote online against sb|sth]] = -[[vote online for sb|sth]]
