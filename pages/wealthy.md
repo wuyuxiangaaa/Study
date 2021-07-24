@@ -1,1 +1,2 @@
-- wealthy(
+- wealthy(adj.) -> wealth(n.)
+	- a wealthy family
