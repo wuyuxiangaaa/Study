@@ -1,1 +1,3 @@
-- murder(n./v.)
+- murder(n./v.) -> murder
+	- {{embed [[murder sb]] }}
+	- A murder
