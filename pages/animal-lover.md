@@ -1,1 +1,2 @@
-- animal-lover
+- animal-lover(n.[C])
+	- an animal-lover
