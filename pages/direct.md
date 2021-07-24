@@ -1,2 +1,3 @@
 - direct(vt./adj.) -> director(n.)
--
+	- a film directed by sb
+	-
