@@ -1,1 +1,1 @@
-- wealthy
+- wealthy(
