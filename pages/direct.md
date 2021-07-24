@@ -1,0 +1,2 @@
+- direct(vt./adj.) -> director(n.)
+-
