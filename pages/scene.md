@@ -1,4 +1,4 @@
 - scene(n.[C])
 	- a beautiful scene
 	- see scenes from India
-	-
+	- {{embed [[at the scene of...]] }}
