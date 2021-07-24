@@ -1,0 +1,4 @@
+- scene(n.[C])
+	- a beautiful scene
+	- see scenes from India
+	-
