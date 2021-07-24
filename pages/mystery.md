@@ -1,2 +1,2 @@
 - mystery(n.[C])
--
+	- solve the mysteries
