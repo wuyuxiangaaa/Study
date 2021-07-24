@@ -1,2 +1,4 @@
 - scared(adj.)
+	- get scared
+	- feel scared
 	-
