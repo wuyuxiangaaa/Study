@@ -19,7 +19,7 @@
 -
   10. {{embed [[fan]] }}
 -
-  11. {{embed [[a number of]] }}
+  11. {{embed [[a number of...]] }}
 -
   12. {{embed [[coming]] }}
 -
