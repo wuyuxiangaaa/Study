@@ -1,1 +1,1 @@
-- murder(
+- murder(n./v.)
