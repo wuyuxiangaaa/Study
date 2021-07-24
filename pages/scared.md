@@ -1,0 +1,2 @@
+- scared(adj.)
+	-

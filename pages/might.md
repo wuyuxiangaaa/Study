@@ -1,0 +1,3 @@
+- might(v.) -> may(v.)
+	- You might sovle the mysteries.
+	- He said that he might be late.
