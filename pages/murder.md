@@ -1,3 +1,4 @@
 - murder(n./v.) -> murder
 	- {{embed [[murder sb]] }}
-	- A murder
+	- A murder happened yesterday.
+	- The police have caught the murderer.
