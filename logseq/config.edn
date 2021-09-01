@@ -96,7 +96,7 @@
  ;;  :editor/down            ["ctrl+j" "down"]
  ;;  :editor/left            ["ctrl+h" "left"]
  ;;  :editor/right           ["ctrl+l" "right"]}
- :shortcuts {:editor/indent "ctrl+tab", :editor/outdent "shift+tab", :editor/highlight "ctrl+shift+h", :editor/end-of-block "alt+e"}
+ :shortcuts {:editor/indent "ctrl+tab", :editor/outdent "shift+ctrl+tab", :editor/highlight "ctrl+shift+h", :editor/end-of-block "alt+e"}
 
  ;; Whether to show command doc on hover
  :ui/show-command-doc? true
