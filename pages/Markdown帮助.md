@@ -10,7 +10,7 @@
 	- 嵌入块
 		- `{{embed ((块ID))}}`
 		  id:: 612f5a80-9bf1-4a51-9dd5-28ed5c3e239c
-		- {{embed ((612f58d1-7eb4-46fa-9f2e-cf0cf9fd92fc))}}()
+		- {{embed ((612f58d1-7eb4-46fa-9f2e-cf0cf9fd92fc))}} (点击本行查看)
 	- 嵌入页面
 		- `{{embed [[页面名称]]}}`
 		- {{embed [[页面名称]]}}
