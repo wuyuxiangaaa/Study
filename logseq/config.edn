@@ -164,4 +164,5 @@
  :ref/default-open-blocks-level 2
  :ui/show-brackets? false
  :graph/settings {:journal? false, :builtin-pages? false, :orphan-pages? true}
- :feature/enable-journals? false}
+ :feature/enable-journals? false
+ :default-home {}}
