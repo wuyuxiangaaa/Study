@@ -1,10 +1,1 @@
-{
-  "type": "excalidraw",
-  "version": 2,
-  "source": "https://logseq.com",
-  "elements": [],
-  "appState": {
-    "viewBackgroundColor": "#FFF",
-    "gridSize": null
-  }
-}
+{"type":"excalidraw","version":2,"source":"https://logseq.com","elements":[{"id":"JlwyjtEmM4DDTtlV558-D","type":"draw","x":333.5,"y":147.1015625,"width":108.22711181640625,"height":111.6087646484375,"angle":0,"strokeColor":"#000000","backgroundColor":"transparent","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"strokeSharpness":"round","seed":2071405677,"version":55,"versionNonce":1149053069,"isDeleted":false,"boundElementIds":null,"points":[[0,0],[-11.306640625,34.57318115234375],[-18.692626953125,68.34844970703125],[-20.22711181640625,97.91036987304688],[-19.01300048828125,103.4739990234375],[-16.80712890625,107.423828125],[-13.995361328125,109.83642578125],[-9.4561767578125,111.6087646484375],[-2.4627685546875,110.870361328125],[16.8341064453125,100.94390869140625],[48.8360595703125,81.08200073242188],[84.34326171875,65],[88,72.69827270507812]],"lastCommittedPoint":null,"startBinding":null,"endBinding":null,"startArrowhead":null,"endArrowhead":null},{"id":"N1E04izgW4JtCicZngA2F","type":"draw","x":146,"y":238.6015625,"width":0,"height":0,"angle":0,"strokeColor":"#000000","backgroundColor":"transparent","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"groupIds":[],"strokeSharpness":"round","seed":733033155,"version":2,"versionNonce":155356909,"isDeleted":false,"boundElementIds":null,"points":[[0,0]],"lastCommittedPoint":null,"startBinding":null,"endBinding":null,"startArrowhead":null,"endArrowhead":null}],"appState":{"gridSize":null,"viewBackgroundColor":"#FFF"}}
