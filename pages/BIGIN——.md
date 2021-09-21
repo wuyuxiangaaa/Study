@@ -23,6 +23,6 @@
   \Huge{......}\\
   \Huge{\therefore\ c\ =\ 2}\\
   \Huge{\therefore\ a\ +\ b\ =\ 2\sqrt{2}}\\
-  \Huge{\therefore\ (a\ +\ b\ =\ 2}
+  \Huge{\therefore\ (a\ +\ b)^2\ =\ }
   
   $$
