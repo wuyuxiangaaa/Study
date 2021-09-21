@@ -16,7 +16,8 @@
 -
   $$
   \Huge{把x\ =\ -1代入ax^2\ +\ \sqrt{2}cx\ +\ b\ =\ 0得}\\
-  \Huge{a\ \times\ (-1)^2\ +\ \sqrt{2}c\ \times\ (-1)\ +\ b\ =\ 0}
+  \Huge{a\ \times\ (-1)^2\ +\ \sqrt{2}c\ \times\ (-1)\ +\ b\ =\ 0}\\
   \Huge{a\ -\ \sqrt{2}c\ +\ b\ =\ 0}\\
   \Huge{\because\ C_{四边形ACDE}\ =\ 6\sqrt{2}}
+  \Huge{\therefore\ 2a\ +\ 2b\ +\ }
   $$
