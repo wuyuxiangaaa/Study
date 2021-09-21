@@ -16,6 +16,6 @@
 -
   $$
   \Huge{把x\ =\ -1代入ax^2\ +\ \sqrt{2}cx\ +\ b\ =\ 0得}
-  \Huge{}
+  \Huge{a\ \times\ (-1)}
   
   $$
