@@ -8,5 +8,5 @@
 -
   $$
   \Huge{3x^2\ +\ 5\sqrt{2}x\ +\ 4\ =\ 0\ \ (可换)}\\
-  \Huge{\Delta\ =\ b}
+  \Huge{\Delta\ =\ b^2\ +\ 4ac}
   $$
