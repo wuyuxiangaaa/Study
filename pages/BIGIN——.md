@@ -10,5 +10,6 @@
   \Huge{3x^2\ +\ 5\sqrt{2}x\ +\ 4\ =\ 0\ \ (可换)}\\
   \Huge{\Delta\ =\ ......\ =\ 2c^2\ +\ 4ab}\\
   \Huge{\because\ c^2\ =\ a^2\ +\ b^2}
-  \Huge{\therefore\ \Delta\ =\ .......\ =\ 2(a\ -\ b)^2\ }
+  \Huge{\therefore\ \Delta\ =\ .......\ =\ 2(a\ -\ b)^2\ \geq\ 0}
+  \Huge{\therefore\ }
   $$
