@@ -25,5 +25,5 @@
   \Huge{\therefore\ a\ +\ b\ =\ 2\sqrt{2}}\\
   \Huge{\therefore\ (a\ +\ b)^2\ =\ (2\sqrt{2})^2}\\
   \Huge{\therefore\ a^2\ +\ b^2\ +\ 2ab\ =\ 8}\\
-  \Huge{\because\ }
+  \Huge{\because\ a^2\ }
   $$
