@@ -19,5 +19,6 @@
   \Huge{a\ \times\ (-1)^2\ +\ \sqrt{2}c\ \times\ (-1)\ +\ b\ =\ 0}\\
   \Huge{a\ -\ \sqrt{2}c\ +\ b\ =\ 0}\\
   \Huge{\because\ C_{四边形ACDE}\ =\ 6\sqrt{2}}
-  \Huge{\therefore\ 2a\ +\ 2b\ +\ }
+  \Huge{\therefore\ 2a\ +\ 2b\ +\ \sqrt{2}c\ =\ 6\sqrt{2}}
+  \Huge
   $$
