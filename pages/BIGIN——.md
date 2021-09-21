@@ -28,4 +28,5 @@
   \Huge{\because\ a^2\ +\ b^2\ =\ c^2\ =\ 2^2\ =\ 4}
   \Huge{\therefore\ 2ab\ =\ 8\ -\ 4\ =\ 4}
   \Huge{\therefore\ ab\ =\ 2}
+  \Huge{\because\ S_{\Delta}}
   $$
