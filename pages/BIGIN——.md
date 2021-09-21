@@ -9,5 +9,6 @@
   $$
   \Huge{3x^2\ +\ 5\sqrt{2}x\ +\ 4\ =\ 0\ \ (可换)}\\
   \Huge{\Delta\ =\ ......\ =\ 2c^2\ +\ 4ab}\\
-  \Huge{\therefore\ }
+  \Huge{\because\ c^2\ =\ a^2\ +\ b^2}
+  \Huge{\therefore\ \Delta\ = }
   $$
