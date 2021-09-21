@@ -22,5 +22,7 @@
   \Huge{\therefore\ 2a\ +\ 2b\ +\ \sqrt{2}c\ =\ 6\sqrt{2}}\\
   \Huge{......}\\
   \Huge{\therefore\ c\ =\ 2}\\
-  \Huge{\therefore\ a\ +\ b\ =\ 2\sqrt{2}}
+  \Huge{\therefore\ a\ +\ b\ =\ 2\sqrt{2}}\\
+  \Huge{\therefore\ (a\ +\ b\ =\ 2}
+  
   $$
