@@ -17,5 +17,5 @@
   $$
   \Huge{把x\ =\ -1代入ax^2\ +\ \sqrt{2}cx\ +\ b\ =\ 0得}\\
   \Huge{a\ \times\ (-1)^2\ +\ \sqrt{2}c\ \times\ (-1)\ +\ b\ =\ 0}
-  
+  \Huge{a\ -\ \sqrt{2}c\ +\ b}\\
   $$
