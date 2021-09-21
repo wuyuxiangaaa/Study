@@ -29,5 +29,5 @@
   \Huge{\therefore\ 2ab\ =\ 8\ -\ 4\ =\ 4}\\
   \Huge{\therefore\ ab\ =\ 2}\\
   \Huge{\because\ S_{\Delta ABC}\ =\ \frac{1}{2}ab}
-  \Huge{\therefore}
+  \Huge{\therefore\ S_{\Delta ABC}\ =\ \frac{1}{2}\ \times\ 2\ =\ 1}
   $$
