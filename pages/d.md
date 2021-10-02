@@ -10,5 +10,4 @@
   \Large{\ce{\therefore \angle CBD=\angle BCE}}\\
   \Large{\ce{\therefore CF=BF}}\\
   (2)\\
-  \Large{\ce{}}
   $$
