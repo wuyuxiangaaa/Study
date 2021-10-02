@@ -9,8 +9,8 @@
   \Large{\ce{\therefore \angle CBD=\angle BGE}}\\
   \Large{\ce{\therefore \angle CBD=\angle BCE}}\\
   \Large{\ce{\therefore CF=BF}}\\
-  
-  \Large
+  \\
+  \Large{\ce{a}}
   
   
   
