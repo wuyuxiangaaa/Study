@@ -6,5 +6,5 @@
   \Large{\ce{\therefore \angle BCE=\angle BGE}}\\
   \Large{\ce{\because C是BD的中点}}
   \Large{\ce{\therefore CD=CB}}
-  \Large{\ce{\therefore }}
+  \Large{\ce{\therefore \angle CDB=\angle CBD}}
   $$
