@@ -4,7 +4,7 @@
   \Large{\ce{\because CE\bot AB}}\\
   \Large{\ce{\therefore BC=BG, \mathop{AB}\limits_{AB}}}}\\
   \Large{\ce{\therefore \angle BCE=\angle BGE}}\\
-  \Large{\ce{}}
+  \Large{\ce{a}}
   
   
   
