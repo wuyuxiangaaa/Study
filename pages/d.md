@@ -11,15 +11,4 @@
   \Large{\ce{\therefore CF=BF}}\\
   (2)\\
   \Large{\ce{}}
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   $$
