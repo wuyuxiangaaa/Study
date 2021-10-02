@@ -8,5 +8,18 @@
   \Large{\therefore \mathop{BC}\limits^{\frown}=\mathop{BD}\limits^{\frown}}\\
   \Large{\ce{\therefore \angle CBD=\angle BGE}}\\
   \Large{\ce{\therefore \angle CBD=\angle BCE}}\\
-  \Large{\ce{\therefoe CF=BF}}
+  \Large{\ce{\therefore CF=BF}}\\
+  
+  \Large
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   $$
