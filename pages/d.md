@@ -7,5 +7,5 @@
   \Large{\ce{\because C是BD的中点}}\\
   \Large{\therefore \mathop{BC}\limits^{\frown}=\mathop{BG}\limits^{\frown}}\\
   \Large{\ce{\therefore \angle CBD=\angle BGE}}
-  \Large{\ce{therefore \angle C}}
+  \Large{\ce{\therefore \angle C}}
   $$
